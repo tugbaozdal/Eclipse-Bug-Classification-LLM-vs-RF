@@ -1,0 +1,801 @@
+bugID,sd,clean_text,co
+554737,Remove all OA in OAIB and Functions in XDFB diagram does not work,remove all oa in oaib and functions in xdfb diagram does not work,Diagram
+553280,[Mac] Tables containing images have header same size of the row and the table scrolls under the header it self,mac tables containing images have header same size of the row and the table scrolls under the header it self,SWT
+551319,[Cocoa][Win] ToolItem.setDisabledImage() JUnit test failure,cocoawin toolitemsetdisabledimage junit test failure,SWT
+551217,NPE in AdapterFactoryContentProvider.getPropertySource() when opening model compare,npe in adapterfactorycontentprovidergetpropertysource when opening model compare,UI
+552893,Activate JDT postfix completion by default,activate jdt postfix completion by default,UI
+555557,"Pattern, REC/RPL, Show Qualified Name, Modelling Accelerators appear in all popup menus",pattern recrpl show qualified name modelling accelerators appear in all popup menus,UI
+547435,[GTK] Table.setSortDirection shows reverse direction,gtk tablesetsortdirection shows reverse direction,SWT
+555270,Update to sirius 3.1.0-S20150820-082835,update to sirius s,Releng
+548316,Update Base builder to 4.12 to build 4.13 M1,update base builder to  to build  m,Releng
+554522,[F2] CDB IDB CDI CEI and management on Node Container inner element direct edit shall edit name of business element,f cdb idb cdi cei and management on node container inner element direct edit shall edit name of business element,Diagram
+548583,Remove 32 bit reference from WorkbenchSessionTest,remove  bit reference from workbenchsessiontest,UI
+554430,Can't save Ecore Tools diagrams in Capella,cant save ecore tools diagrams in capella,Core
+554237,Ensure that bodies of OpaqueExpression are never null,ensure that bodies of opaqueexpression are never null,Core
+551158,Always use new qualifier for ISV doc plug-ins to get rid of manual touching,always use new qualifier for isv doc plugins to get rid of manual touching,Releng
+556271,StringEqual predicate shall allow empty value,stringequal predicate shall allow empty value,Core
+553883,Please fix the problems associated with your simrel contribution,please fix the problems associated with your simrel contribution,Releng
+554604,Prevent double refreshs on tools using CapellaServices.forceRefresh() when Automatic Refresh is enabled,prevent double refreshs on tools using capellaservicesforcerefresh when automatic refresh is enabled,Diagram
+554638,Fix issues for computed links between parent components,fix issues for computed links between parent components,Diagram
+553472,NPE while resolving module javadoc,npe while resolving module javadoc,Core
+547323,[product] manifest editor should not remove header comment on save,product manifest editor should not remove header comment on save,UI
+551607,[CommonNavigator] Common filters tab should use SWT.ICON_CANCEL,commonnavigator common filters tab should use swticon_cancel,UI
+548286,[GTK] Clean up system color CSS parsing,gtk clean up system color css parsing,SWT
+553497,[ELK] Arrange new elements at diagram opening,elk arrange new elements at diagram opening,Diagram
+554365,"After clone diagram the referencing , Current ans Referenced element are not copied",after clone diagram the referencing  current ans referenced element are not copied,Core
+551394,Enable tycho strict bin includes,enable tycho strict bin includes,Releng
+550458,Eclipse 4.13 prerequisites for RC1: Orbit,eclipse  prerequisites for rc orbit,Releng
+553250,"[ELK] The ""Authorized side"" constraint for a border node is not considered by ELK layout",elk the authorized side constraint for a border node is not considered by elk layout,Diagram
+547512,[Mac] Header separator line not drawn for Table/Tree in eclipse,mac header separator line not drawn for tabletree in eclipse,SWT
+552084,"Seeing extra ""Input Methods"" as menu option.",seeing extra input methods as menu option,SWT
+550324,[mac] Rendering problem in Java editor views with long lines,mac rendering problem in java editor views with long lines,SWT
+553642,Update Base builder from 4.14 RC1 to build 4.14 RC2,update base builder from  rc to build  rc,Releng
+553191,[results] Fix compiler warnings in o.e.test.performance.ui,results fix compiler warnings in oetestperformanceui,Releng
+548057,[Preferences] Add Color Previews in 'Appearance color options' table on 'Text Editors' preference page,preferences add color previews in appearance color options table on text editors preference page,UI
+548654,Add check to detect version mismatch in SWT host plugin and fragment,add check to detect version mismatch in swt host plugin and fragment,Releng
+550766,Create 4.14-I-builds repo,create ibuilds repo,Releng
+551053,Catch exceptions on session close with dirty state because a distant resource is not reachable,catch exceptions on session close with dirty state because a distant resource is not reachable,Diagram
+554192,Remove AutoLoad test suites,remove autoload test suites,Core
+549942,Impossible to compile CDT 2019-09 using Eclipse 2019-09 M2 with JDT 3.18.100.v20190801-0600,impossible to compile cdt  using eclipse  m with jdt v,Core
+548476,withdraw Java12-preview-version of switch expressions to fix completion,withdraw javapreviewversion of switch expressions to fix completion,Core
+550677,Sign Mac native libraries,sign mac native libraries,Releng
+552657,Migrate old builds cleanup job to JIRO,migrate old builds cleanup job to jiro,Releng
+551305,Java Doc error in I20190919-1800,java doc error in i,Core
+555250,Experimental Platform build,experimental platform build,Releng
+549742,Test results from linux machines are not present for some builds,test results from linux machines are not present for some builds,Releng
+550497,Readme file for 4.13,readme file for,Releng
+552891,"different sort order in ""Replace with"" dialog",different sort order in replace with dialog,UI
+554626,No Impact Analysis when deleting Pre/Post Condition on Sequence diagram,no impact analysis when deleting prepost condition on sequence diagram,Diagram
+552747,[ELK] Layout initialization of container elements,elk layout initialization of container elements,Diagram
+551530,[Diagram][WelcomePage][Internationalization] NullPointerException with the checkbox Use internationalization,diagramwelcomepageinternationalization nullpointerexception with the checkbox use internationalization,Diagram
+553244,Find Actions shows chevron menu icon and not the new Kebab icon,find actions shows chevron menu icon and not the new kebab icon,UI
+554504,New conditional style in xDFB,new conditional style in xdfb,Diagram
+555521,Inconsistent naming for new Physical Components,inconsistent naming for new physical components,UI
+551456,SWT Image auto scaling with nattable v1.5 and v1.6,swt image auto scaling with nattable v and v,SWT
+555295,Build model of addons version 1.0.0,build model of addons version,Releng
+547608,Update Base builder to 4.12 M3 to build 4.12 RC1,update base builder to  m to build  rc,Releng
+552186,RCP-Application crashes using MSCTF.dll,rcpapplication crashes using msctfdll,SWT
+547768,[GTK3] Eclipse randomly crashes in WindowBuilder Swing Designer,gtk eclipse randomly crashes in windowbuilder swing designer,SWT
+555317,New target + maven profile for addons,new target  maven profile for addons,Releng
+549893,Replace usage of PDELaunchingPlugin.getWorkspace() with ResourcesPlugin.getWorkspace(),replace usage of pdelaunchingplugingetworkspace with resourcesplugingetworkspace,UI
+553428,Message for post commit hook is misleading,message for post commit hook is misleading,Core
+554028,Logical Component Decomposition wizard not working,logical component decomposition wizard not working,Core
+549814,[10.15] Notarize Mac app,notarize mac app,Releng
+554502,[CDB] Display cardinality even if related role is not navigable,cdb display cardinality even if related role is not navigable,Diagram
+553678,Update GTK min version to 3.14,update gtk min version to,SWT
+554761,Creation of the Physical Path when created on PAB owned by Root Package,creation of the physical path when created on pab owned by root package,Diagram
+554763,CE and PL shall be stored in common ancestor (Component or ComponentPkg),ce and pl shall be stored in common ancestor component or componentpkg,Diagram
+553572,Could not complete job. org.eclipse.swt.SWTException Invalid thread access,could not complete job orgeclipseswtswtexception invalid thread access,SWT
+554337,Size of log-monitoring file,size of logmonitoring file,Core
+555245,[Build] Add platforms linux 32/64,build add platforms linux,Releng
+550846,[releng] build fails after upgrading to Guava 27.1,releng build fails after upgrading to guava,Releng
+555592,NPE in TransferView when execute button is clicked,npe in transferview when execute button is clicked,UI
+553746,Move previous version to 4.14RC2 across build scripts,move previous version to rc across build scripts,Releng
+548821,[Mac] Fix unified ToolBar layout,mac fix unified toolbar layout,SWT
+548242,API Analysis in Tycho build fail for dependencies which have nested jars,api analysis in tycho build fail for dependencies which have nested jars,Releng
+552550,Create a script to get eclipse platform product from latest release,create a script to get eclipse platform product from latest release,Releng
+550406,GatewayValidator ignores MIXED type,gatewayvalidator ignores mixed type,Core
+548397,The platform's executables are not signed in the p2 update site,the platforms executables are not signed in the p update site,Releng
+554176,[Coding Style] Get rid of mixed line endings,coding style get rid of mixed line endings,Core
+551676,Updating dynamic Java working sets even though I do not have any,updating dynamic java working sets even though i do not have any,UI
+548363,"Update JNI code with ""contains"" instead of ""indexOf""",update jni code with contains instead of indexof,SWT
+551227,[13] Wrong syntax highlights of preview switch expressions,wrong syntax highlights of preview switch expressions,UI
+550719,[Win32] Cannot cycle in Link widget when it is the only widget,win cannot cycle in link widget when it is the only widget,SWT
+548710,"""File Not Accessible"" dialog is not cancellable",file not accessible dialog is not cancellable,UI
+551127,The caret stops blinking after opening another shell,the caret stops blinking after opening another shell,SWT
+550140,Eclipse release notes are hard to find,eclipse release notes are hard to find,Releng
+550720,[Win32] Screen reader have problems with Link containing multiple links,win screen reader have problems with link containing multiple links,SWT
+554738,Show in Diagram Editor does not work for Sequence Links associated to FCI Links,show in diagram editor does not work for sequence links associated to fci links,Diagram
+551662,Table#setSelection should use Varargs,tablesetselection should use varargs,SWT
+550816,Fix process monitoring bugs in PDE,fix process monitoring bugs in pde,UI
+555293,Update build model of addons to match Capella 1.0.0 version,update build model of addons to match capella  version,Releng
+552433,[Dark theme] Move workaround for LogView Text search to a general setting,dark theme move workaround for logview text search to a general setting,UI
+547936,[Snippets] Every Snippet should set a window title,snippets every snippet should set a window title,SWT
+548658,Stackoverflow in SWT on Mac OS 10.14.5,stackoverflow in swt on mac os,SWT
+553742,POM and product version change for 4.15 release,pom and product version change for  release,Releng
+547005,[Win32] Menus rendered empty when certain editors are active,win menus rendered empty when certain editors are active,SWT
+554729,Insert functions operation inserts same function twice on xDFB,insert functions operation inserts same function twice on xdfb,Diagram
+547044,"Font effects don't work by using ""Font"" buton of the tabbar.",font effects dont work by using font buton of the tabbar,Diagram
+553355,[Wayland] Can't get proper display relative coordinates,wayland cant get proper display relative coordinates,SWT
+547727,Regression - Viewpoint extension not working in sirius 6.1,regression  viewpoint extension not working in sirius,Core
+551438,Fix files that have ended up with CRLF in the git repository,fix files that have ended up with crlf in the git repository,Releng
+547709,[13] Allow JDT to target Java 13 in compiler preferences,allow jdt to target java  in compiler preferences,UI
+552143,Deploy ecj compiler of 4.14M2 and use it for 4.14 build,deploy ecj compiler of m and use it for  build,Releng
+550282,[13] Create Patch (P) build for Java 13,create patch p build for java,Releng
+554525,Dispersion des notes dans les diagrammes breakdown,dispersion des notes dans les diagrammes breakdown,Diagram
+554044,HoldingResource references in model lead to invalid proxies,holdingresource references in model lead to invalid proxies,Core
+554512,Cannot Create Exchange Context through Sequence message properties,cannot create exchange context through sequence message properties,Diagram
+554734,Through a Diagram using shortcut copy /paste (Ctrl+C/Ctrl+V) paste diagram graphical element twice (reopening session),through a diagram using shortcut copy paste ctrlcctrlv paste diagram graphical element twice reopening session,Diagram
+552511,Create cleanup script for equinox downloads,create cleanup script for equinox downloads,Releng
+551405,[Mac] Text widget with SWT.SEARCH and SWT.ICON_CANCEL - cancel icon no longer accepts left-click to clear the field,mac text widget with swtsearch and swticon_cancel  cancel icon no longer accepts leftclick to clear the field,SWT
+553270,Run Source > Cleanup on all code,run source  cleanup on all code,Releng
+554591,"[Regression][OAS] Create OAS Scenario create errors in error log and does not set trigram OAS (on Pr Explorer OAS, Op Capa or Act Explorer or on Diagram)",regressionoas create oas scenario create errors in error log and does not set trigram oas on pr explorer oas op capa or act explorer or on diagram,Diagram
+552978,Many wildcards hang quick access,many wildcards hang quick access,UI
+549210,[Regression][Cocoa] GC.drawImage draws transparent region into black once getImageData is invoked,regressioncocoa gcdrawimage draws transparent region into black once getimagedata is invoked,SWT
+550652,"[content assist] Content assist ""substring"" with type names no longer works",content assist content assist substring with type names no longer works,Core
+549103,Ctrl + A and Ctrl + S not working with Build id: I20190708-1800,ctrl  a and ctrl  s not working with build id i,UI
+548613,API report for org.eclipse.core.databinding.observable is missing,api report for orgeclipsecoredatabindingobservable is missing,Releng
+552277,[Win32] Virtual Table becomes visible upon setItemCount,win virtual table becomes visible upon setitemcount,SWT
+550879,[13] Add org.eclipse.jdt.junit.core to Y-build,add orgeclipsejdtjunitcore to ybuild,Releng
+547303,[HiDpi][Snippets] Snippet139 uses 100% image to rotate and flip on hidpi,hidpisnippets snippet uses  image to rotate and flip on hidpi,SWT
+551913,Invalid error: The method X must override or implement a supertype method,invalid error the method x must override or implement a supertype method,Core
+547925,Move to release version of 4.12 in build scripts,move to release version of  in build scripts,Releng
+554648,Enhance creation and display of Physical Paths,enhance creation and display of physical paths,Diagram
+547187,need splash screen update for 2019-06,need splash screen update for,Releng
+549139,DeleteResourceAction should check with registered ModelProviders before deleting resources,deleteresourceaction should check with registered modelproviders before deleting resources,UI
+547762,osgi.bundles and start levels from existing config.ini are not considered,osgibundles and start levels from existing configini are not considered,UI
+554631,Reorder Tools NPE,reorder tools npe,Diagram
+551309,[releng] Align versions,releng align versions,Core
+554624,Diagram palette tool ergonomy: merge insert Functon and insert Actor Function tools,diagram palette tool ergonomy merge insert functon and insert actor function tools,Diagram
+547730,"IllegalArgumentException during some diagram opening without ""refresh at opening""",illegalargumentexception during some diagram opening without refresh at opening,Diagram
+554646,[OAIB] Allow drag from Capella explorer and drop in operational activity,oaib allow drag from capella explorer and drop in operational activity,Diagram
+554565,"New filter 'Show Modifiers"" to add information in property, exchange item element and association end labels",new filter show modifiers to add information in property exchange item element and association end labels,Diagram
+551513,"""Start automatically in dark theme based on OS theme"" leads to null theme with RCP apps",start automatically in dark theme based on os theme leads to null theme with rcp apps,SWT
+552409,JniGenerator to always zero-initialize structs before filling them,jnigenerator to always zeroinitialize structs before filling them,SWT
+550535,"[AF] When switch viewpoints, the editors not managed by current viewpoints must be closed",af when switch viewpoints the editors not managed by current viewpoints must be closed,Core
+554558,Can't delete a link from constraint to PComponent in [PAB],cant delete a link from constraint to pcomponent in pab,Diagram
+547159,All macOS binaries included in Eclipse platform should be correctly signed to pass Apple's notarization process,all macos binaries included in eclipse platform should be correctly signed to pass apples notarization process,Releng
+554754,Problem with Insert CE on Types in multi-part mode (reusable mode),problem with insert ce on types in multipart mode reusable mode,Diagram
+548451,4.13 I-Build: I20190619-1820 BUILD FAILED,ibuild i build failed,SWT
+548661,[GTK] DND from SWT to embbedded AWT frame (SWT_AWT) is broken on Linux,gtk dnd from swt to embbedded awt frame swt_awt is broken on linux,SWT
+549652,git clean should suspend auto build,git clean should suspend auto build,UI
+554342,Unable to create SystemFunction when a VP is installed and contribute a semantic decoration,unable to create systemfunction when a vp is installed and contribute a semantic decoration,Core
+549988,Refactor ConvertLoopFix to jdt.core.manipulation for the use of jdt.ls,refactor convertloopfix to jdtcoremanipulation for the use of jdtls,UI
+554002,Update of new test framework prototype,update of new test framework prototype,Core
+554619,"Remove ""UNSET"" nature button in Physical Component properties view",remove unset nature button in physical component properties view,Diagram
+550534,Crash when opening Code Style Formatter in CDT,crash when opening code style formatter in cdt,SWT
+552207,Elements to Select expression behavior is not compliant with the documentation,elements to select expression behavior is not compliant with the documentation,Diagram
+551812,"Change the ""Find Actions"" button",change the find actions button,UI
+550186,Eclipse 4.13 prerequisites for M3: Orbit,eclipse  prerequisites for m orbit,Releng
+551486,[14] Create P-build,create pbuild,Releng
+553142,[14] Grammar changes for pattern instanceof,grammar changes for pattern instanceof,Core
+549061,[Class Diagram] Cannot create property in a DataType,class diagram cannot create property in a datatype,Diagram
+552535,I20191029-1800 build failure,i build failure,Releng
+547402,"Unexpected ""build-individual-bundles"" profile activation in aggregator build",unexpected buildindividualbundles profile activation in aggregator build,Releng
+554091,"Add RCPTT test for ""Bug 485634 - Session switch in Activity Explorer editor leads to errors""",add rcptt test for bug   session switch in activity explorer editor leads to errors,Core
+551767,Update prereqs for 4.14 M1 release: ECF,update prereqs for  m release ecf,Releng
+547125,[12] NPE in compiler.problem.ProblemReporter.duplicateCase(...) on reconcile,npe in compilerproblemproblemreporterduplicatecase on reconcile,Core
+549376,[Ubuntu 14.04] Native crash in OS._gtk_widget_show when creating RADIO MenuItem with UBUNTU_MENUPROXY,ubuntu  native crash in os_gtk_widget_show when creating radio menuitem with ubuntu_menuproxy,SWT
+548056,"[GTK][Preferences] Add space between ""Show whitespace characters"" and ""(configure visiblity)""",gtkpreferences add space between show whitespace characters and configure visiblity,SWT
+547188,Mark IResourceNavigator and related API for deletion,mark iresourcenavigator and related api for deletion,UI
+550007,Run PDE compiler only when the contents of the preference file has changed,run pde compiler only when the contents of the preference file has changed,UI
+549422,[HiDPI] Improve HiDPI support in 4.13,hidpi improve hidpi support in,SWT
+549901,[Win32] Table column 0 has wrong alignment,win table column  has wrong alignment,SWT
+552408,Provide scripting module help,provide scripting module help,Core
+548556,Build failed with SWT-Increment_if_needed for I20190622-1800,build failed with swtincrement_if_needed for i,SWT
+551539,"Select all / deselect all in the Git Staging view ""flashes"" the viewer",select all  deselect all in the git staging view flashes the viewer,UI
+552227,[SequenceDiagram] Use of Message Found in sequence diagram cause leads blocked diagram elements after save and reopen,sequencediagram use of message found in sequence diagram cause leads blocked diagram elements after save and reopen,Diagram
+550967,[10.15] Mac dark theme not listed in Eclipse,mac dark theme not listed in eclipse,UI
+551999,TableEditor doesn't move with cell,tableeditor doesnt move with cell,SWT
+554634,Startup doesn't ask for workspace anymore,startup doesnt ask for workspace anymore,Diagram
+550226,[content assist] New proposal category may get enabled by default,content assist new proposal category may get enabled by default,UI
+554548,Insert/remove Relationships in IDB,insertremove relationships in idb,Diagram
+552513,Create updateIndex script for JIRO,create updateindex script for jiro,Releng
+552323,[GTK] in-place Spinner as table editor not usable in plugin configuration dialog,gtk inplace spinner as table editor not usable in plugin configuration dialog,SWT
+548019,Move I-builds to R4_12_maintenance branch,move ibuilds to r__maintenance branch,Releng
+554722,Displaying edges between parents if source or target of FunctionalChainInvolvementLink is collapsed,displaying edges between parents if source or target of functionalchaininvolvementlink is collapsed,Diagram
+550663,FilterService.sortFilters is called too often,filterservicesortfilters is called too often,Diagram
+554658,Migration to AQL - partition tests Quantiques,migration to aql  partition tests quantiques,Diagram
+547553,[macOS] Table does not receive SWT.Resize event if the scrollbar is shown/hidden,macos table does not receive swtresize event if the scrollbar is shownhidden,SWT
+551291,Refactor InlineRefactoring to jdt.core.manipulation for use by jdt.ls,refactor inlinerefactoring to jdtcoremanipulation for use by jdtls,UI
+552276,Why does EGit ignore local hooks?,why does egit ignore local hooks,Core
+550818,[null][external] external annotations are dropped when other type annotations exist on the same member,nullexternal external annotations are dropped when other type annotations exist on the same member,Core
+555300,Cannot run documentation generation when using bundle pool,cannot run documentation generation when using bundle pool,Releng
+553251,[ELK] List and list items are not correctly handled by ELK layout,elk list and list items are not correctly handled by elk layout,Diagram
+554025,Prepare version and splashscreen for 1.0.0,prepare version and splashscreen for,Core
+551521,org.eclipse.core.runtime.CoreException: No property tester contributes a property com.ifedorenko.m2e.sourcelookup.m2estratum to type class,orgeclipsecoreruntimecoreexception no property tester contributes a property comifedorenkomesourcelookupmestratum to type class,UI
+554607,Add the option to only clean DAnnotations instead of migrate them,add the option to only clean dannotations instead of migrate them,Diagram
+555277,Update Kitalpha to latest version,update kitalpha to latest version,Releng
+552716,"Assertion: ""This code should never have executed""",assertion this code should never have executed,SWT
+555260,Update Sirius.Query.Legacy to 1.1.0,update siriusquerylegacy to,Releng
+547807,ECJ cannot compile more than two chained calls on methods returning self-type in an interface with a complex self-type generic type parameter,ecj cannot compile more than two chained calls on methods returning selftype in an interface with a complex selftype generic type parameter,Core
+553736,Prep work for 4.15 and open master for development,prep work for  and open master for development,Releng
+550368,[ELK] All ELK algorithm options are not avalaible in VSM,elk all elk algorithm options are not avalaible in vsm,Diagram
+549889,[GTK] Tree column 0 has wrong alignment,gtk tree column  has wrong alignment,SWT
+547420,Substring match while filtering methods should be lower in relevance,substring match while filtering methods should be lower in relevance,UI
+551654,UI Freeze for several minutes in ProjectViewer,ui freeze for several minutes in projectviewer,SWT
+554739,Creation of physical path should not propose wizard for starting point,creation of physical path should not propose wizard for starting point,Diagram
+554038,Add rename tool to test framework,add rename tool to test framework,Core
+553274,PartOnTopManager uses @EventTopic instead of @UIEventTopic,partontopmanager uses eventtopic instead of uieventtopic,UI
+550523,4.13 Acknowledgements,acknowledgements,Releng
+554584,Improve Manipulation of Compartment,improve manipulation of compartment,Diagram
+554707,Exceptions when creating diagrams,exceptions when creating diagrams,Diagram
+550142,very high Ram consumption on Mac os,very high ram consumption on mac os,SWT
+549238,4.13.0 I-Build: I20190713-0230 - BUILD FAILED,ibuild i  build failed,Releng
+555520,"""Error while modifying model"" in Activity Explorer when clicking on ""[OAS] Create a new Operational Activity Scenario""",error while modifying model in activity explorer when clicking on oas create a new operational activity scenario,UI
+547869,We can not access the class of diagram at ElkGraphlayout,we can not access the class of diagram at elkgraphlayout,Core
+547489,[GTK] widgetSelected() and different OS platform behaviors,gtk widgetselected and different os platform behaviors,SWT
+548720,[PropertiesView] Impossible to open properties view for '*.ctx' file,propertiesview impossible to open properties view for ctx file,Core
+548611,Test attribute ignored for classpath container entries,test attribute ignored for classpath container entries,Core
+555503,Filter action in Capella overview,filter action in capella overview,UI
+552634,Please fix the problems associated with your simrel contribution,please fix the problems associated with your simrel contribution,Releng
+554222,Backport changes from ValidationRuleTestCase to 1.0.x,backport changes from validationruletestcase to x,Core
+552223,[cocoa]  NPE in Menu._setVisible when clicking a menuitem of a disposed menu,cocoa  npe in menu_setvisible when clicking a menuitem of a disposed menu,SWT
+549069,Node creation processing does not guarantee the order,node creation processing does not guarantee the order,Diagram
+554514,Icon of functions are not displayed by default in SAB and LAB diagrams,icon of functions are not displayed by default in sab and lab diagrams,Diagram
+553463,Move to 2019-12,move to,Core
+554713,"Internal links of Functional Chain are not hidded when  ""Hide Functional Exchanges"" filter is applied",internal links of functional chain are not hidded when  hide functional exchanges filter is applied,Diagram
+552203,JVM crash when clicking to edit a cell in properties view,jvm crash when clicking to edit a cell in properties view,SWT
+547202,Consistently get stackoverflow displaying widgets trying to switch to debug perspective,consistently get stackoverflow displaying widgets trying to switch to debug perspective,SWT
+554555,"Remove unused NodeMappings ""ControlFunction"" from .odesign files",remove unused nodemappings controlfunction from odesign files,Diagram
+552788,PluginModelManager.getEntryTable is slow,pluginmodelmanagergetentrytable is slow,UI
+554765,"Delete the container of the target element from ""Delete From Model"" toolbar action fails",delete the container of the target element from delete from model toolbar action fails,Diagram
+550776,Create generic repos I-builds and milestones to point to 4.14 repos,create generic repos ibuilds and milestones to point to  repos,Releng
+551363,Deploy ecj compiler from I20191009-1800 and use it for 4.14 build,deploy ecj compiler from i and use it for  build,Releng
+549610,"Pages, Sections, Activities should be filtered from UI via Workbench Activity Support / Capabilities",pages sections activities should be filtered from ui via workbench activity support  capabilities,UI
+548327,[Win32] Add color constants for disabled background and foreground colors,win add color constants for disabled background and foreground colors,SWT
+547090,"The save participant 'org.eclipse.jdt.ui.postsavelistener.cleanup' caused an exception: java.lang.IndexOutOfBoundsException: Index: 1, Size: 1",the save participant orgeclipsejdtuipostsavelistenercleanup caused an exception javalangindexoutofboundsexception index  size,Core
+554322,"The ""Activate usage monitoring"" option is not enabled by default",the activate usage monitoring option is not enabled by default,Core
+551383,[quick fix] Changing visibility of inherited method not proposed for class inheriting interface,quick fix changing visibility of inherited method not proposed for class inheriting interface,UI
+550958,[Cocoa] Table loses header after .setParent() to invisible Composite,cocoa table loses header after setparent to invisible composite,SWT
+548160,[Releng] SSH agent write permission to promote,releng ssh agent write permission to promote,Releng
+550876,Update to R4_13_maintenance for P-builds and Y-Builds,update to r__maintenance for pbuilds and ybuilds,Releng
+554728,Use new Sirius capability to automatically launch a refresh on Collapse/Uncollapse of compartment in FCD diagram,use new sirius capability to automatically launch a refresh on collapseuncollapse of compartment in fcd diagram,Diagram
+553564,Create a new scope kind Scope.MODULE_SCOPE,create a new scope kind scopemodule_scope,Core
+554524,Category tool behaves strangely in AB and DF diagrams with Functional Exchanges,category tool behaves strangely in ab and df diagrams with functional exchanges,Diagram
+554019,Resolve Sonar issues,resolve sonar issues,Core
+549188,"""Internal compiler error"" on ""instanceof Object[]""",internal compiler error on instanceof object,Core
+551910,Eclipse 4.14 M2 prerequisites: Orbit,eclipse  m prerequisites orbit,Releng
+547694,[releng] Specifier plugin in runtime feature,releng specifier plugin in runtime feature,Releng
+552507,Use API Generation app directly instead of Ant,use api generation app directly instead of ant,Releng
+551231,Few reports are not created with I20190918-1800,few reports are not created with i,Releng
+555308,Capella 1.1.0 MacOsx installation is wrong,capella  macosx installation is wrong,Releng
+553212,[cocoa] TextLayout.computeRuns() can crash with an NPE,cocoa textlayoutcomputeruns can crash with an npe,SWT
+550039,Y build showing comparator error in platform.ua for jsp files,y build showing comparator error in platformua for jsp files,Releng
+551346,NPE while running save actions for UnboxingCleanUp,npe while running save actions for unboxingcleanup,Core
+554735,Display new Functional Chain concepts on XAB diagrams,display new functional chain concepts on xab diagrams,Diagram
+553663,Icon selection dialog of the e4 application model editor  resizes badly,icon selection dialog of the e application model editor  resizes badly,UI
+552823,[qvtr2qvts] Support when predicate logic,qvtrqvts support when predicate logic,Core
+548020,Create R4_12_maintenance branch from 4.12RC2,create r__maintenance branch from rc,Releng
+554412,Invalid precondition to reconnect functional exchange,invalid precondition to reconnect functional exchange,Core
+547676,Do the Javadoc bash for 4.12,do the javadoc bash for,SWT
+550010,CPD dialog should have a consistent usage of setUseHashlookup for menu and action tree viewer,cpd dialog should have a consistent usage of setusehashlookup for menu and action tree viewer,UI
+550693,"There is this ""unknown character"" displayed in the Project Explorer after running JUnit.",there is this unknown character displayed in the project explorer after running junit,UI
+551614,[AutoRefactor immigration #13/117] [cleanup & saveaction] Use directly map method,autorefactor immigration  cleanup  saveaction use directly map method,UI
+553119,[history] refs/**/[CURRENT-BRANCH] shows empty history,history refscurrentbranch shows empty history,UI
+554715,Show/Hide tool can't remove a function with a constraint attached in Data Flow Diagrams,showhide tool cant remove a function with a constraint attached in data flow diagrams,Diagram
+547451,Configurable white lists of annotations that should be respected during usage analysis,configurable white lists of annotations that should be respected during usage analysis,Core
+547306,[ELK] All ELK algorithm options are not avalaible in VSM,elk all elk algorithm options are not avalaible in vsm,Diagram
+548870,[Win32] Tabbing with TableEditor unusuable,win tabbing with tableeditor unusuable,SWT
+549511,[SequenceDiagram] Cannot undo the creation of a message with a gate as MessageEnd,sequencediagram cannot undo the creation of a message with a gate as messageend,Diagram
+554231,Create a model search integrated in the Eclipse Search Framework,create a model search integrated in the eclipse search framework,Core
+554635,Check forceRefresh for ArmTimer and CancelTimer tools,check forcerefresh for armtimer and canceltimer tools,Diagram
+549148,[ELK] Do not call BorderItemAwareLayoutProvider when an ELK layout algorithm is used.,elk do not call borderitemawarelayoutprovider when an elk layout algorithm is used,Diagram
+549745,Deploy ecj compiler from 4.13 M2 and use it for 4.13 M3 build,deploy ecj compiler from  m and use it for  m build,Releng
+554057,Errors on model migration,errors on model migration,Core
+549045,[macOS] Editable Combobox: crashes on 10.14.5,macos editable combobox crashes on,SWT
+548332,bundles/org.eclipse.swt/.settings/.api_filters changed by the build,bundlesorgeclipseswtsettingsapi_filters changed by the build,SWT
+554665,Migration to AQL - doc,migration to aql  doc,Diagram
+552336,Move to Tycho 1.5.1,move to tycho,Releng
+552617,[Cocoa] Test_org_eclipse_swt_custom_StyledText.test_setStyleRanges_render JUnit failure seen on MAC,cocoa test_org_eclipse_swt_custom_styledtexttest_setstyleranges_render junit failure seen on mac,SWT
+548147,[SequenceDiagram][Model2Doc] NullPointerException exporting Sequence Diagram,sequencediagrammodeldoc nullpointerexception exporting sequence diagram,Diagram
+554580,SelectElementsFromTransferWizard should allow Collections as input parameters,selectelementsfromtransferwizard should allow collections as input parameters,Diagram
+551051,Unexpected compilation errors when changing code of a class from a plug-in project,unexpected compilation errors when changing code of a class from a plugin project,Core
+554515,In Sequence Diagrams Arm/Cancel Timer are not displayed (Automatic Refresh not activated),in sequence diagrams armcancel timer are not displayed automatic refresh not activated,Diagram
+548806,[GTK][LXDE] SIGSEGV in Java_org_eclipse_swt_internal_C_strlen,gtklxde sigsegv in java_org_eclipse_swt_internal_c_strlen,SWT
+554610,"On MSM diagram, it is impossible to start/end a transition on entry/do/exit activities",on msm diagram it is impossible to startend a transition on entrydoexit activities,Diagram
+550965,Remove swt tools activator,remove swt tools activator,SWT
+551600,[AutoRefactor immigration #12/117] [cleanup & saveaction] Use lazy logical operator,autorefactor immigration  cleanup  saveaction use lazy logical operator,UI
+550787,P builds and Y builds should be built from 4_13_maintenance,p builds and y builds should be built from __maintenance,Releng
+550643,Some keybindings do not work after split editor,some keybindings do not work after split editor,UI
+549962,[13] Formatter Support for Switch Expressions JEP 354,formatter support for switch expressions jep,Core
+549658,Java12ElementsTests.testRootElements1() failing,javaelementsteststestrootelements failing,Core
+553436,[Passage] add MyLyn settling step to passage.setup script,passage add mylyn settling step to passagesetup script,Releng
+555311,Capella Exe should be named capella.exe,capella exe should be named capellaexe,Releng
+554010,Impossible to make generalization with Logical Component in Library,impossible to make generalization with logical component in library,Core
+554255,New elements doesn't appear in project explorer,new elements doesnt appear in project explorer,Core
+553240,ImageLoader save() creates striped images on Linux,imageloader save creates striped images on linux,SWT
+554556,Properties view on diagram element does not have focus on Semantic but Sirius element,properties view on diagram element does not have focus on semantic but sirius element,Diagram
+555324,Bundle capella dependencies into features,bundle capella dependencies into features,Releng
+553156,[14] Records - Search,records  search,Core
+551709,Enable http://download.eclipse.org/releases/latest repo by default,enable httpdownloadeclipseorgreleaseslatest repo by default,Releng
+548656,Provide support for Maven Publishing of EMF builds,provide support for maven publishing of emf builds,Releng
+552474,[Dark theme] Delete unnecessary CSS spy related CSS styling,dark theme delete unnecessary css spy related css styling,UI
+554687,[xDFB] Cannot show Applied PropertyValueGroup if the group is a child of the applying function,xdfb cannot show applied propertyvaluegroup if the group is a child of the applying function,Diagram
+555289,Add releng for Rcptt test,add releng for rcptt test,Releng
+555292,Update build model of addons to match Capella 1.1.0 version,update build model of addons to match capella  version,Releng
+551064,ASTParser not able to recover directly in body of type declaration,astparser not able to recover directly in body of type declaration,Core
+553992,Inconsistency on reloaded resources,inconsistency on reloaded resources,Core
+554611,Refactoring of Exchange Category creation for better testability,refactoring of exchange category creation for better testability,Diagram
+549157,Declare 4.13 M1,declare  m,Releng
+554114,Cannot found projects used in tests when they are located in another project,cannot found projects used in tests when they are located in another project,Core
+555304,Capella master isn't executable on OSx anymore,capella master isnt executable on osx anymore,Releng
+553657,[GTK] Checkbox hard to see on active part,gtk checkbox hard to see on active part,SWT
+550733,[GTK] Getter methods of DateTime returns wrong (old) date and time values when fields changed by keyboard,gtk getter methods of datetime returns wrong old date and time values when fields changed by keyboard,SWT
+547968,Declare 4.12 RC2,declare  rc,Releng
+554047,Add some enhancements into M2,add some enhancements into m,Core
+550292,Use concise text in discard all changes dialog,use concise text in discard all changes dialog,UI
+555276,Capella 0.8.2 is missing execution rights on Content/MacOsX/eclipse,capella  is missing execution rights on contentmacosxeclipse,Releng
+552906,Editor has no focus/cursor after tab switch,editor has no focuscursor after tab switch,UI
+553200,I build (I20191118-2230) failed,i build i failed,Releng
+552826,[GTK3] Dead-lock in OS._pango_cairo_show_layout,gtk deadlock in os_pango_cairo_show_layout,SWT
+555505,Integration of amalgam.explorer.activity into capella,integration of amalgamexploreractivity into capella,UI
+550935,Move source tarball generation to separate job.,move source tarball generation to separate job,Releng
+552199,DecisionTableTest.java AutoGenerated (Drools) Works on Windows But Not Mac,decisiontabletestjava autogenerated drools works on windows but not mac,Core
+554139,Capella shall support item label decorators,capella shall support item label decorators,Core
+552558,Fix warnings,fix warnings,Core
+553290,Declare 4.14 M3,declare  m,Releng
+550469,Deploy ecj compiler from 4.13 RC1 and use it for 4.13 RC2 build,deploy ecj compiler from  rc and use it for  rc build,Releng
+548576,showBusy in reflog view,showbusy in reflog view,UI
+550059,[styled text] Typing ~~ in combination with ²&~# inserts é~~,styled text typing  in combination with ² inserts é,SWT
+549076,When i right click on Class file does not show the bottom of the Right-Click menu,when i right click on class file does not show the bottom of the rightclick menu,SWT
+551822,"[pivot] Rationalize ExpressionInOCL, Parameter/ParameterVariable, this",pivot rationalize expressioninocl parameterparametervariable this,Core
+554673,Breakdown diagram refresh breaks down when the diagram contains property values,breakdown diagram refresh breaks down when the diagram contains property values,Diagram
+554605,Improve Get Mapping By Name accesses,improve get mapping by name accesses,Diagram
+554655,Migration to AQL - partition tests StringConcatenation,migration to aql  partition tests stringconcatenation,Diagram
+553471,Show output of hooks even if they don't fail,show output of hooks even if they dont fail,UI
+549136,[GTK] Cannot get rid of welcome page,gtk cannot get rid of welcome page,SWT
+550725,[Win32] NVDA will read drop down item twice,win nvda will read drop down item twice,SWT
+548235,[Headless] AutomaticUpdateScheduler prints errors to log,headless automaticupdatescheduler prints errors to log,Core
+554661,Migration to AQL - partition uncovered Chiffre + OneCallOnCurrent + OneCallOnNotCurrent,migration to aql  partition uncovered chiffre  onecalloncurrent  onecallonnotcurrent,Diagram
+549833,[10.15]FileDialog.open() throws NullPointerException on macOS Catalina,filedialogopen throws nullpointerexception on macos catalina,SWT
+555552,Capella/Delete preferences are empty,capelladelete preferences are empty,UI
+555568,[Flexi] Set property value only once in OptionRenderer,flexi set property value only once in optionrenderer,UI
+547003,[contentassist] NPE on 'new' assist in lambda in enum field declaration,contentassist npe on new assist in lambda in enum field declaration,Core
+555325,Allows build of viewpoints generated for CDO,allows build of viewpoints generated for cdo,Releng
+554674,Migration To AQL,migration to aql,Diagram
+554395,Missing plug-in org.polarsys.kitalpha.ad.integration.amalgam in the final product,missing plugin orgpolarsyskitalphaadintegrationamalgam in the final product,Core
+547921,Hide 4.13 builds from the download page,hide  builds from the download page,Releng
+551768,Eclipse 4.14 M1 prerequisites: Orbit,eclipse  m prerequisites orbit,Releng
+547369,Settíng colors of TableItem has no effect in Eclipse 2018-12,settíng colors of tableitem has no effect in eclipse,SWT
+550628,Migrate EPP to consistently use EPL 2.0 and SUA 2.0,migrate epp to consistently use epl  and sua,Releng
+554125,RCPTT test case Diagram Creation failed,rcptt test case diagram creation failed,Core
+548364,[win32] Compiler warning reported in swt.win32.win32.x86 plugin,win compiler warning reported in swtwinwinx plugin,SWT
+552327,Opening platformUi.setup results in errors with the Oomph editor,opening platformuisetup results in errors with the oomph editor,Releng
+554594,org.eclipse.sirius.diagram.ui.layoutDataManager deprecated,orgeclipsesiriusdiagramuilayoutdatamanager deprecated,Diagram
+552578,[Dark theme] Always style Shell,dark theme always style shell,UI
+547529,[GTK3] Regression: ImageLoader.save() no longer works,gtk regression imageloadersave no longer works,SWT
+549181,[GTK] Improve accuracy of Color.get[Red|Blue|Green] methods,gtk improve accuracy of colorgetredbluegreen methods,SWT
+551336,[StyledText] resetting styles does not reset rendering,styledtext resetting styles does not reset rendering,SWT
+548666,"[Win32] Remove unused COM constants, structures, functions, interfaces",win remove unused com constants structures functions interfaces,SWT
+553659,[content assist] IllegalArgumentException with postfix and chain completions,content assist illegalargumentexception with postfix and chain completions,Core
+547674,N&N for 4.12,nn for,Releng
+555247,Problem with GTK version vs embedded webkit,problem with gtk version vs embedded webkit,Releng
+547411,[GTK] Two/Three finger tap not working in Project Explorer,gtk twothree finger tap not working in project explorer,SWT
+554742,"Menu issue using GMF right click menus (edit, copy paste ...)",menu issue using gmf right click menus edit copy paste,Diagram
+552601,API tools error message in SWT,api tools error message in swt,SWT
+553833,[Tests] Move o.e.jface.tests.databinding.conformance to JUnit4,tests move oejfacetestsdatabindingconformance to junit,UI
+548491,[regression][mac] Cheese in java editor,regressionmac cheese in java editor,SWT
+550009,UI freeze in org.eclipse.ui.dialogs.FilteredTree,ui freeze in orgeclipseuidialogsfilteredtree,UI
+547109,[GTK] JVM crash when multiple processes were started and native libraries are missing,gtk jvm crash when multiple processes were started and native libraries are missing,SWT
+554308,Make generic the isDryRun attribute for ITransfo,make generic the isdryrun attribute for itransfo,Core
+551276,Move tracecompass vserver to the eclipseprojects.io domain,move tracecompass vserver to the eclipseprojectsio domain,Core
+548904,Spurious find references potential matches,spurious find references potential matches,UI
+547197,[9][model] API to get the kind of a IModuleDescription,model api to get the kind of a imoduledescription,Core
+552395,Update platform to Jetty 9.4.22,update platform to jetty,Releng
+553762,[Mac] Incorrect order of events when switching between editable cells in a table.,mac incorrect order of events when switching between editable cells in a table,SWT
+547656,Validation errors in Mylyn.setup for duplicate IDs,validation errors in mylynsetup for duplicate ids,Releng
+548457,[Win32] Replace direct vtable calls with interface wrappers,win replace direct vtable calls with interface wrappers,SWT
+552453,[cleanup & saveaction] Rename 1.7 tests to avoid future conflict,cleanup  saveaction rename  tests to avoid future conflict,UI
+554733,XDFB diagrams are incorrectly initialized from composite functional chain contextual elements,xdfb diagrams are incorrectly initialized from composite functional chain contextual elements,Diagram
+554647,Migration to AQL,migration to aql,Diagram
+553873,[SequenceDiagram] bad display when a non horizontal synchronous diagram is created,sequencediagram bad display when a non horizontal synchronous diagram is created,Diagram
+554753,problem on functionnal chain diagram using PVMT view on functionnal exchanges (CAPELLA 1.3.1),problem on functionnal chain diagram using pvmt view on functionnal exchanges capella,Diagram
+548798,Remove special handing of SWT.SEARCH for Bug 293230,remove special handing of swtsearch for bug,UI
+555560,[releng] Bump to 1.2.0,releng bump to,UI
+552469,NPE in Link handlers,npe in link handlers,UI
+548968,[JUnit 5] Update prereqs file to include JUnit 5.5.1 JARs in place of JUnit 5.4 JARs,junit  update prereqs file to include junit  jars in place of junit  jars,Releng
+552330,[GTK] Inline editing not visible until I switch rows,gtk inline editing not visible until i switch rows,SWT
+548789,[Cleanup] Files listed for change but no changes,cleanup files listed for change but no changes,UI
+554521,Expression error in 'Exchange Scenario diagram',expression error in exchange scenario diagram,Diagram
+550694,Remove unsed CSSSWTHTMLEngineImpl.java,remove unsed cssswthtmlengineimpljava,UI
+554680,Text is not created at the mouse pointer location,text is not created at the mouse pointer location,Diagram
+554625,Freezes on ES scenario when using Lost/Found FEs Tool,freezes on es scenario when using lostfound fes tool,Diagram
+554618,Remove legacy diagram annotations while migration,remove legacy diagram annotations while migration,Diagram
+548140,[win32][StyledText] Hieroglyph causes preceding spaces to change size,winstyledtext hieroglyph causes preceding spaces to change size,SWT
+554532,Dnd of Component in IDB will create small ports,dnd of component in idb will create small ports,Diagram
+551771,[GTK] Gnome dark theme and Eclipse light theme,gtk gnome dark theme and eclipse light theme,SWT
+547989,[Win32] Owner-drawn table ignores set background color for sorting column,win ownerdrawn table ignores set background color for sorting column,SWT
+551174,Comparator errors in 4.14 I build - I20190917-1800,comparator errors in  i build  i,Releng
+547938,[Snippets] Some improvements for SWT Snippets,snippets some improvements for swt snippets,SWT
+547927,Version bumps for 4.13 stream,version bumps for  stream,Releng
+550939,Dark theme with Text control and SWT.SEARCH style,dark theme with text control and swtsearch style,UI
+549622,Impact of PreviewEnabled check in DOM on JDT UI,impact of previewenabled check in dom on jdt ui,UI
+551932,org.eclipse.swt.SWTError: No more handles,orgeclipseswtswterror no more handles,SWT
+548384,[Win32] Simplify directory handling in TaskBar,win simplify directory handling in taskbar,SWT
+553641,Deploy ecj compiler from 4.14 RC1 and use it for 4.14 RC2 build,deploy ecj compiler from  rc and use it for  rc build,Releng
+551719,Use actual check buttons in RefSpecPanel,use actual check buttons in refspecpanel,UI
+549713,[Win32][API]Query the current system setting for dark mode,winapiquery the current system setting for dark mode,SWT
+552789,[GTK] org.eclipse.swt.widgets.Display.gtk_css_parse_foreground sticks out in Yourkit,gtk orgeclipseswtwidgetsdisplaygtk_css_parse_foreground sticks out in yourkit,SWT
+554696,Insert OA in an [OAIB] diagram failed,insert oa in an oaib diagram failed,Diagram
+554579,Fix AirdMigration for Sirius 4.0,fix airdmigration for sirius,Diagram
+554508,OAIB problem,oaib problem,Diagram
+550105,[13][quick fix] Text Block: No Quick fix to enable preview feature when using text block,quick fix text block no quick fix to enable preview feature when using text block,UI
+549414,SWT code cleanup,swt code cleanup,SWT
+553870,[SequenceDiagram] Creation of synachronous diagram on execution specification is not correct,sequencediagram creation of synachronous diagram on execution specification is not correct,Diagram
+554731,Property view : Browse for Sequence Link > Functional Chain Invovement Links,property view  browse for sequence link  functional chain invovement links,Diagram
+551766,Eclipse 4.14 M1 prerequisites: EMF,eclipse  m prerequisites emf,Releng
+553733,Eclipse crashes in mshtml when open htm file in IE web browser,eclipse crashes in mshtml when open htm file in ie web browser,SWT
+551163,[Dark Theme] Selectable Form Editor Title should be dark when Eclipse is in dark theme,dark theme selectable form editor title should be dark when eclipse is in dark theme,UI
+554154,With new Sirius 4.0.0 we cannot open a diagram from Capella Explorer,with new sirius  we cannot open a diagram from capella explorer,Core
+554732,New filters to simplify FCD display,new filters to simplify fcd display,Diagram
+552256,Code recommenders cannot download its repository index,code recommenders cannot download its repository index,Core
+547503,Incorrect persisted state for shared elements in fragments,incorrect persisted state for shared elements in fragments,UI
+550066,Tracking bug for inclusion of Eclipse Capra in Oomph project catalogue,tracking bug for inclusion of eclipse capra in oomph project catalogue,Releng
+554764,"Delete the target element from ""Delete From Model"" toolbar action fails",delete the target element from delete from model toolbar action fails,Diagram
+551477,Find Actions - Sorting should prefer prefix matches,find actions  sorting should prefer prefix matches,UI
+551002,[13] Refactor > Extract Local Variable and Extract Constant not working on Text Block,refactor  extract local variable and extract constant not working on text block,UI
+554698,Impossible to Move/Reorder Lost Sequence Message in scenario diagram,impossible to movereorder lost sequence message in scenario diagram,Diagram
+547466,[GTK3] Form title text is partially not shown,gtk form title text is partially not shown,SWT
+554576,Change min value of gradient color of some diagram elements and fix color of capability diagrams,change min value of gradient color of some diagram elements and fix color of capability diagrams,Diagram
+551343,Cannot change value of variables,cannot change value of variables,SWT
+552554,[MinMaxAddon] Part Icon not updated when setIconURI is called,minmaxaddon part icon not updated when seticonuri is called,UI
+553754,Revisit failing JUnit Test_org_eclipse_swt_widgets_Display#test_postLorg_eclipse_swt_widgets_Event,revisit failing junit test_org_eclipse_swt_widgets_displaytest_postlorg_eclipse_swt_widgets_event,SWT
+551926,Postfix completion does create new variable for List<String>list,postfix completion does create new variable for liststringlist,UI
+547138,Every project should set minor and major version options to 'Error',every project should set minor and major version options to error,Releng
+552835,SWTException on diagram refresh,swtexception on diagram refresh,Diagram
+553598,A way to be notified about addition of a new Item in (Tree/Table/ToolBar...),a way to be notified about addition of a new item in treetabletoolbar,SWT
+548479,[GTK 3.22.30] GLib-CRITICAL: g_base64_encode_step: assertion 'in != NULL' failed,gtk  glibcritical g_base_encode_step assertion in  null failed,SWT
+554292,"Add business queries for FE,CE,PL source and target references",add business queries for fecepl source and target references,Core
+554699,PropertyValues in PropertyValueGroups and unsynchronized diagrams,propertyvalues in propertyvaluegroups and unsynchronized diagrams,Diagram
+555514,(Regression) Running a command through Activity Explorer on a project p1 deals with the second session opened p2,regression running a command through activity explorer on a project p deals with the second session opened p,UI
+547904,Configure SWT build scripts for 4.13,configure swt build scripts for,SWT
+550373,[ELK] Do not call BorderItemAwareLayoutProvider when an ELK layout algorithm is used.,elk do not call borderitemawarelayoutprovider when an elk layout algorithm is used,Diagram
+554347,BusinessQueriesProvider returns null for valid EClass,businessqueriesprovider returns null for valid eclass,Core
+554578,Migrate old colors while migration of project,migrate old colors while migration of project,Diagram
+553772,SWT Crashes Java VM and Eclipse,swt crashes java vm and eclipse,SWT
+552700,[Dark theme] Use same color for table and tree header background as for the other widgets,dark theme use same color for table and tree header background as for the other widgets,UI
+554326,Switching selection to element B after editing description of element A,switching selection to element b after editing description of element a,Core
+552318,Caret disappears when autocompleting,caret disappears when autocompleting,SWT
+550379,Delete Navigator view (ResourceNavigator impl) after August 2021,delete navigator view resourcenavigator impl after august,UI
+552215,[GTK3] Tree: Excessive flickering,gtk tree excessive flickering,SWT
+550551,Provide access to bundle preference store outside AbstractUIPlugin,provide access to bundle preference store outside abstractuiplugin,UI
+551422,"[GTK] [Ubuntu] ToolItem separator not visible ToolItem(parent, SWT.SEPARATOR);",gtk ubuntu toolitem separator not visible toolitemparent swtseparator,SWT
+555501,Information View errors on invalid BasicDiagnostic,information view errors on invalid basicdiagnostic,UI
+551914,SubContributionItem maintains its own visible state,subcontributionitem maintains its own visible state,UI
+554547,"Clean diagram validation decorators through button ""Clean"" in Information View",clean diagram validation decorators through button clean in information view,Diagram
+552974,Window title in the GitHistoryRefFilterConfigurationDialog should use title case,window title in the githistoryreffilterconfigurationdialog should use title case,UI
+549377,Eclipse 4.13 prerequisites for M2: EMF,eclipse  prerequisites for m emf,Releng
+555597,Ability to display tree-structured log data in Information View / Log,ability to display treestructured log data in information view  log,UI
+550975,OutOfMemoryError Happens When I Format The Java Source File,outofmemoryerror happens when i format the java source file,Core
+551303,"[GTK3] DND from SWT to embbedded AWT frame (SWT_AWT) is broken on Linux, application crashes in few minutes",gtk dnd from swt to embbedded awt frame swt_awt is broken on linux application crashes in few minutes,SWT
+550998,GTK - Stabilize org.eclipse.jface.tests.viewers.VirtualLazyTreeViewerTest.testExpandToLevel,gtk  stabilize orgeclipsejfacetestsviewersvirtuallazytreeviewertesttestexpandtolevel,SWT
+548407,No 4.13. in https://download.eclipse.org/eclipse/updates/I-builds/,no  in httpsdownloadeclipseorgeclipseupdatesibuilds,Releng
+551770,semantic highligting preferences are not saved,semantic highligting preferences are not saved,UI
+550570,Auto-share sets session property org.eclipse.team.core:repository for project at git ignored location,autoshare sets session property orgeclipseteamcorerepository for project at git ignored location,Core
+547320,[GTK 3.22][Tree] Cannot drag and drop multiple selected items,gtk tree cannot drag and drop multiple selected items,SWT
+555320,Remove Richtext update site,remove richtext update site,Releng
+551735,SVG image used as style have their background color computed incorrectly.,svg image used as style have their background color computed incorrectly,Diagram
+554559,[LAB] Allocation Management tool shall propose to allocate functions to child Logical component,lab allocation management tool shall propose to allocate functions to child logical component,Diagram
+554223,Test framework: Allow test to require model from different bundle,test framework allow test to require model from different bundle,Core
+547998,[GTK3] Bottom scrollbar arrow does nothing on click,gtk bottom scrollbar arrow does nothing on click,SWT
+548672,[macOS] Set background color does not match painted one,macos set background color does not match painted one,SWT
+555283,Update Sirius version to 3.1.2,update sirius version to,Releng
+549481,[Mac]API Tools error in Display.java,macapi tools error in displayjava,SWT
+548961,NullPointerException in Image.internal_new_GC(Image.java:1598),nullpointerexception in imageinternal_new_gcimagejava,SWT
+550321,[Tests] Some tests are failing because of ProxyModificationTrackingAdapter,tests some tests are failing because of proxymodificationtrackingadapter,Core
+547412,Installation Error for EMF common,installation error for emf common,Core
+554675,Operational Entity Scenario Show/Hide Entities/Roles doesn't recurse into sub-role-packages,operational entity scenario showhide entitiesroles doesnt recurse into subrolepackages,Diagram
+548900,[project] Raise UML lowerbound to 5.0 consistently,project raise uml lowerbound to  consistently,Core
+550773,Show 4.14 builds on download page,show  builds on download page,Releng
+554340,Adapt the Capella code to the removing of refresh() operation.,adapt the capella code to the removing of refresh operation,Core
+549791,Mylyn Commons UI depends on Guava 21,mylyn commons ui depends on guava,UI
+554748,Refactoring of id of diagram tools,refactoring of id of diagram tools,Diagram
+554411,Delete action and command should use the RepresentationDescriptor instead of the Representation,delete action and command should use the representationdescriptor instead of the representation,Core
+547195,[Cocoa] Clean up .bridgesupport.extras,cocoa clean up bridgesupportextras,SWT
+550166,[language] Support contextual classes,language support contextual classes,Core
+554553,IllegalArgumentException when saving changes on several Sessions,illegalargumentexception when saving changes on several sessions,Diagram
+550913,[AutoRefactor immigration #11/116] [cleanup & saveaction] Push down negation,autorefactor immigration  cleanup  saveaction push down negation,UI
+548447,Unable to access QuickAccessProviders,unable to access quickaccessproviders,UI
+549171,[win32] Optimize bulk inserting/deleting items for Tree,win optimize bulk insertingdeleting items for tree,SWT
+547754,"Slow loading ""org.eclipse.e4.ui.swt.css.theme"" when using shared drive as workspace directory",slow loading orgeclipseeuiswtcsstheme when using shared drive as workspace directory,UI
+553615,Update prereqs for 4.14 RC2 release: ECF,update prereqs for  rc release ecf,Releng
+554243,Delete Instance Role leads to EMF errors,delete instance role leads to emf errors,Core
+552679,Catch exceptions on session close with dirty state because a distant resource is not reachable 2,catch exceptions on session close with dirty state because a distant resource is not reachable,Diagram
+554249,Upgrade EGF generation patterns from Juno to Neon,upgrade egf generation patterns from juno to neon,Core
+550691,Staging view freezes on commit (NPE in AbstractTextEditor$TextEditorSavable.isDirty),staging view freezes on commit npe in abstracttexteditortexteditorsavableisdirty,UI
+553808,[10.15] Support macOS 10.15 (Catalina),support macos  catalina,SWT
+552387,Make SWT and Eclipse RCP apps work in snap packages,make swt and eclipse rcp apps work in snap packages,SWT
+552390,Compiler error for outer outer instance access in local class,compiler error for outer outer instance access in local class,Core
+553344,Deploy ecj compiler from 4.14 M3 and use it for 4.14 RC1 build,deploy ecj compiler from  m and use it for  rc build,Releng
+550568,[AF] The diagrams and tables icons of disabled viewpoint should be grayed,af the diagrams and tables icons of disabled viewpoint should be grayed,Core
+547506,[MacOS] [WebKit] java.lang.NullPointerException at org.eclipse.swt.browser.WebKit.webView_didFailProvisionalLoadWithError_forFrame(WebKit.java:717),macos webkit javalangnullpointerexception at orgeclipseswtbrowserwebkitwebview_didfailprovisionalloadwitherror_forframewebkitjava,SWT
+547935,[Snippets] Add preview image for SWT Snippets,snippets add preview image for swt snippets,SWT
+551677,[win32] GPF crash while opening editor,win gpf crash while opening editor,SWT
+548747,Eclipse 4.13 prerequisites for M1: EMF,eclipse  prerequisites for m emf,Releng
+553853,Splash screen for 4.16 (2020-06),splash screen for,Releng
+549990,[OI2JIRO] Migrate to new clustered infrastructure,oijiro migrate to new clustered infrastructure,Releng
+549783,Underscore characters are not rendered when editing textcell,underscore characters are not rendered when editing textcell,SWT
+552537,[JUnit 5] Cannot run tests inside secondary types,junit  cannot run tests inside secondary types,UI
+549060,[Win32] Accessibility bug in quick assist dialog (F2) helper,win accessibility bug in quick assist dialog f helper,SWT
+548983,Eclipse Platform repositories and CI contract,eclipse platform repositories and ci contract,Releng
+550181,Java doc warning in the build I20190816-0155,java doc warning in the build i,UI
+551728,Move org.eclipse.jdt.junit.runtime to 1.5,move orgeclipsejdtjunitruntime to,UI
+556264,CSV export stopped working after import of a reqIF file,csv export stopped working after import of a reqif file,Core
+554688,Cannot show multiple applied PropertyValueGroups,cannot show multiple applied propertyvaluegroups,Diagram
+547565,cannot access past projects,cannot access past projects,UI
+554549,Cannot change an Actor to an image in a CSA,cannot change an actor to an image in a csa,Diagram
+547779,ParameterNamesCodeMiningTest.testMultiLines() failed,parameternamescodeminingtesttestmultilines failed,UI
+547797,Update Base builder to 4.12 RC1 to build 4.12 RC2,update base builder to  rc to build  rc,Releng
+554686,Add possibility to hide an event kind on state machine diagram.,add possibility to hide an event kind on state machine diagram,Diagram
+554434,"FCD Sequence Links fixes, improvements, filters",fcd sequence links fixes improvements filters,Core
+548758,[CSS] The CSSDiagram should provide a createEngine method to ease override,css the cssdiagram should provide a createengine method to ease override,Core
+548190,[API] Add color constants for disabled background and foreground colors,api add color constants for disabled background and foreground colors,SWT
+549493,Surprising semantics of the strict check for unlikely argument types,surprising semantics of the strict check for unlikely argument types,Core
+554700,Add ability to not display VSM User FixedColor in color palette,add ability to not display vsm user fixedcolor in color palette,Diagram
+554588,Remove Entry/Exit Points creation tools in [MSM] diagram,remove entryexit points creation tools in msm diagram,Diagram
+554671,Impacts of new UID implementation while transitioning diagrams,impacts of new uid implementation while transitioning diagrams,Diagram
+553865,NewWizard: category closes after being opened,newwizard category closes after being opened,UI
+551100,[Accessibility]A11y_Java Tooling for IntelliJ/Eclipse_ Available Software_ Screen Reader: Narrator/NVDA is not reading the error message provided for “Work with” field.,accessibilityay_java tooling for intellijeclipse_ available software_ screen reader narratornvda is not reading the error message provided for work with field,SWT
+548305,[PropertiesView] Properties view shows properties for parts that are no longer visible,propertiesview properties view shows properties for parts that are no longer visible,UI
+551251,"Save action ""remove redundant modifiers"" remove non-redundant modifier",save action remove redundant modifiers remove nonredundant modifier,UI
+554080,Enhance Semantic Editing Domain extension possibilities,enhance semantic editing domain extension possibilities,Core
+550499,Do the Javadoc bash for 4.13,do the javadoc bash for,SWT
+552909,Builder API for MessageDialog,builder api for messagedialog,UI
+547070,Property Tester (to make a command conditionally visible) is not working the way it is expected,property tester to make a command conditionally visible is not working the way it is expected,UI
+547997,EModelService findElement methods do not find shared elements of MWindow,emodelservice findelement methods do not find shared elements of mwindow,UI
+549255,[formatter] Extend Blank Lines settings to remove excess lines - UI,formatter extend blank lines settings to remove excess lines  ui,UI
+549220,[13] Organize imports should handle types in YieldStatement,organize imports should handle types in yieldstatement,UI
+550184,Eclipse 4.13 prerequisites for M3: ECF,eclipse  prerequisites for m ecf,Releng
+555322,Sample model shall not be stored as a zip file in git repository,sample model shall not be stored as a zip file in git repository,Releng
+554595,[PASTE] Capella Paste does not take account of original layout copied,paste capella paste does not take account of original layout copied,Diagram
+554685,Show port names on a diagram.,show port names on a diagram,Diagram
+554519,Constraint Duration applied on Lost Found Functional Exchange was not handled.,constraint duration applied on lost found functional exchange was not handled,Diagram
+554493,"Creating a REC from a diagram shall filter by default aird elements (e.g. gmf notes, text/ linked rep.)",creating a rec from a diagram shall filter by default aird elements eg gmf notes text linked rep,Core
+549409,AssertionFailedException below FileSystemSelectionArea.createContents (thrown in StructuredViewer.assertElementsNotNull),assertionfailedexception below filesystemselectionareacreatecontents thrown in structuredviewerassertelementsnotnull,UI
+551580,Build I20190927-1800 failed - The method initializeContext(JavaContext) of type E4ContextType must override or implement a supertype method,build i failed  the method initializecontextjavacontext of type econtexttype must override or implement a supertype method,UI
+548436,System Monitoring Perspective triggers AERI,system monitoring perspective triggers aeri,Core
+547575,IllegalStateException when clearing credentials,illegalstateexception when clearing credentials,Core
+549243,[13] support --add-modules ALL-MODULE-PATH,support addmodules allmodulepath,Core
+554228,Integration of the Kitalpha/AFM enhancements,integration of the kitalphaafm enhancements,Core
+547572,[extract method] Enable all buttons in Extract Method wizard on opening,extract method enable all buttons in extract method wizard on opening,UI
+552667,[DataBinding] Fluent binding API,databinding fluent binding api,UI
+555537,"""Send to Fast Linker View"" menu should not be shown when selection is empty",send to fast linker view menu should not be shown when selection is empty,UI
+547148,Expose Outer Synthetic Locals from Method Binding,expose outer synthetic locals from method binding,Core
+553338,One multiple instance view cannot be shown at right place based on placeholder when some additional view is added to the current perspective,one multiple instance view cannot be shown at right place based on placeholder when some additional view is added to the current perspective,UI
+549878,[Tests] Create tests for observable values and lists,tests create tests for observable values and lists,Core
+555548,"Remove the technical command ""Fix Custom Features""",remove the technical command fix custom features,UI
+549247,jenkins job to deploy mvn artifacts,jenkins job to deploy mvn artifacts,Releng
+552756,[1.8][compiler][inference] compile errors for method with two distinct lower bounded type params when T != T,compilerinference compile errors for method with two distinct lower bounded type params when t  t,Core
+550754,Table line style not supported,table line style not supported,SWT
+554627,"Sequence messages (except for Lost messages, Delete messages and Create messages) should not be deleted directly to avoid invalid model elements (EMF Errors)",sequence messages except for lost messages delete messages and create messages should not be deleted directly to avoid invalid model elements emf errors,Diagram
+549054,Mapping checks and mapping hierarchy computation done during refresh should be optimized,mapping checks and mapping hierarchy computation done during refresh should be optimized,Diagram
+554642,"Refresh All Sub Representations does not work with ""dirty"" diagrams",refresh all sub representations does not work with dirty diagrams,Diagram
+555309,Investigate unification of capella git repositories,investigate unification of capella git repositories,Releng
+548820,[ELK] Improve ELK graph transformation,elk improve elk graph transformation,Diagram
+554636,[Regression] Diagram descriptors cannot be deleted or renamed,regression diagram descriptors cannot be deleted or renamed,Diagram
+551411,Ubuntu 18.04 LTS Gnome3 horizontal scrollbar blocking or obstructing text fields when inspecting variables and console logs,ubuntu  lts gnome horizontal scrollbar blocking or obstructing text fields when inspecting variables and console logs,SWT
+552209,[GTK] Tree with SWT.MeasureItem crashes,gtk tree with swtmeasureitem crashes,SWT
+553026,NPE in StagingView link with selection,npe in stagingview link with selection,UI
+554570,LDFB diagram extension bug,ldfb diagram extension bug,Diagram
+547150,Git asks for user credentials again and again and fails to authorise (HTTPS; Microsoft TFS),git asks for user credentials again and again and fails to authorise https microsoft tfs,Core
+548955,Build Comparator error for I20190703-1800,build comparator error for i,Core
+550661,@since Annotation is not always generated at the end of a comment,since annotation is not always generated at the end of a comment,Core
+547299,Accommodate https: nsURIs,accommodate https nsuris,Core
+554517,Reconnect of Actor Generalization doesn't work on several diagrams,reconnect of actor generalization doesnt work on several diagrams,Diagram
+555307,Correction of EGF Build for XML Pivot add-on,correction of egf build for xml pivot addon,Releng
+553024,[win32] Dark theme - preliminary native support for win32 dark mode,win dark theme  preliminary native support for win dark mode,SWT
+550517,[GTK3] Swing components keep the focus when coming back to SWT widgets,gtk swing components keep the focus when coming back to swt widgets,SWT
+554034,org.polarsys.capella.core.dashboard.hyperlinkadapter.AbstractHyperlinkAdapter$linkActivated(HyperlinkEvent) is doing explicit cast to ICapellaModel,orgpolarsyscapellacoredashboardhyperlinkadapterabstracthyperlinkadapterlinkactivatedhyperlinkevent is doing explicit cast to icapellamodel,Core
+554597,Lollipops are too small in interface diagrams,lollipops are too small in interface diagrams,Diagram
+554708,Add ability to not display VSM User FixedColor in color palette,add ability to not display vsm user fixedcolor in color palette,Diagram
+555540,"Application freeze (""not responding"") launching ""Compare as models"" on aird files and trying to close ""Compare"" editor",application freeze not responding launching compare as models on aird files and trying to close compare editor,UI
+550388,Shell.getBounds() wrong when shell is maximized.,shellgetbounds wrong when shell is maximized,SWT
+552361,PopupMenuExtender does not handle multiple MenuManager instances correctly,popupmenuextender does not handle multiple menumanager instances correctly,UI
+552870,[ecore] Make EcoreEnvironment::findPackage robust,ecore make ecoreenvironmentfindpackage robust,Core
+555298,Build job errors,build job errors,Releng
+550617,Utility to restore preference values in tests,utility to restore preference values in tests,UI
+548191,[GTK] Add color constant for disabled background and foreground colors,gtk add color constant for disabled background and foreground colors,SWT
+552822,[Win32][Cocoa] Cursor to click 'x' to clear search text should be mouse arrow and not a caret,wincocoa cursor to click x to clear search text should be mouse arrow and not a caret,SWT
+554089,getParent method was returning the melodymodeller instead of the aird,getparent method was returning the melodymodeller instead of the aird,Core
+553302,Folders on Project Explorer are sometimes displayed twice (refresh problem),folders on project explorer are sometimes displayed twice refresh problem,UI
+549046,[macOS] Comboxes: inconsistent colors of the popup,macos comboxes inconsistent colors of the popup,SWT
+551257,Eclipse 4.13 (2019-09) checksum mismatch (SHA-512),eclipse   checksum mismatch sha,Releng
+552867,"""<name> cannot be resolved or is not a field"" when ""Extract to local variable"" applied to field ref",name cannot be resolved or is not a field when extract to local variable applied to field ref,Core
+553997,Progress Monitoring > Set Progress... does not propagate progress statuses on Constraints and Diagrams.,progress monitoring  set progress does not propagate progress statuses on constraints and diagrams,Core
+549084,org.eclipse.emf.common.util.URI may fail under OpenJ9 11+,orgeclipseemfcommonutiluri may fail under openj,Core
+555321,Official capella 1.2.1 download does not include capella source code,official capella  download does not include capella source code,Releng
+548979,[13][ast rewrite] AST Rewrite Support for JEP 354 Switch Expressions,ast rewrite ast rewrite support for jep  switch expressions,Core
+549919,PDE Smart import does not detect bundles without .project file,pde smart import does not detect bundles without project file,UI
+550347,Provide Platform.getLog(.class) method,provide platformgetlogclass method,UI
+554672,Display Property values on diagrams,display property values on diagrams,Diagram
+548906,Use new API for AST for preview,use new api for ast for preview,UI
+547908,Update Comparator repo and eclipse run repo to 4.13-I-builds repo,update comparator repo and eclipse run repo to ibuilds repo,Releng
+549779,Eclipse uses much more memory than Xmx is configured,eclipse uses much more memory than xmx is configured,SWT
+553157,[14] Records - Content Assist,records  content assist,Core
+554622,"Wrong tooltip of ""Component Port Allocation"" tool",wrong tooltip of component port allocation tool,Diagram
+551755,Linux View toolbar size  and layout problem,linux view toolbar size  and layout problem,UI
+548608,[qvtr] Allow empty property/member lists in patterns,qvtr allow empty propertymember lists in patterns,Core
+547474,"While working in assignment context, the methods that return void should be lower in relevance",while working in assignment context the methods that return void should be lower in relevance,Core
+555588,Provide better feedback in Capella Model Explorer for Invalid representation,provide better feedback in capella model explorer for invalid representation,UI
+550916,Enable WebKitGTK back/forward gesture,enable webkitgtk backforward gesture,SWT
+548643,generate javax.inject import in PDE templates,generate javaxinject import in pde templates,UI
+551538,"Shorter text for ""Could not launch""",shorter text for could not launch,UI
+547738,Avoid potential NPEs,avoid potential npes,Diagram
+548150,[SequenceDiagram] Expection during the redo of an Asynch Message creation,sequencediagram expection during the redo of an asynch message creation,Diagram
+552719,[14] Making Switch Expressions available as Standard feature in DOM AST,making switch expressions available as standard feature in dom ast,Core
+550260,"API Analysis steps in Tycho build should use I-Build as runner, and latest release as baseline",api analysis steps in tycho build should use ibuild as runner and latest release as baseline,Releng
+555296,Update Capella version to 1.0.2,update capella version to,Releng
+551549,Make Automatic-Module-Name as bold in manifest editor,make automaticmodulename as bold in manifest editor,UI
+554238,[Migration] Extension point schemas for contributions are not packaged,migration extension point schemas for contributions are not packaged,Core
+555249,"[Build] Remove ""nosrc"" archives",build remove nosrc archives,Releng
+551567,UI freeze of 20s while opening a big C/C++ project,ui freeze of s while opening a big cc project,UI
+554683,FunctionalChain internal arrow to a port without exchanges must not be displayed,functionalchain internal arrow to a port without exchanges must not be displayed,Diagram
+555536,Capella migration menu is shown in invalid contexts,capella migration menu is shown in invalid contexts,UI
+548620,[GTK3] Table text overflows from view into text editor,gtk table text overflows from view into text editor,SWT
+547004,"Run class fails ""Selection does not contain a main type"" for simple class that has main method",run class fails selection does not contain a main type for simple class that has main method,Core
+552585,Contribute Eclipse and Equinox to Simrel for 4.14 M2,contribute eclipse and equinox to simrel for  m,Releng
+554644,Diagram's GraphicalEditPart's location is inconsistent from 1 computer to the next,diagrams graphicaleditparts location is inconsistent from  computer to the next,Diagram
+555263,[Addons] Update for delivery / XHTMLDocGen 0.8.2 / XMLPivot 0.8.1 / SubsystemTransition 0.8.1,addons update for delivery  xhtmldocgen   xmlpivot   subsystemtransition,Releng
+554394,Functional chain/Scenarios describing capabilities and better Capability validation and related involvements,functional chainscenarios describing capabilities and better capability validation and related involvements,Core
+552478,[ClassDiagram] InformationFlow ends are increasing when moving the relation ends in a diagram,classdiagram informationflow ends are increasing when moving the relation ends in a diagram,Diagram
+554755,Remove the capability to create diagram CRR because refinement capa is removed from 1.4,remove the capability to create diagram crr because refinement capa is removed from,Diagram
+551820,Update version to 1.10.0,update version to,Core
+556265,Traceability export (xls or csv) does not mention model element qualified name,traceability export xls or csv does not mention model element qualified name,Core
+553057,Device.getScreenDPI() only considers the primary monitor in multi-monitor environments,devicegetscreendpi only considers the primary monitor in multimonitor environments,SWT
+554572,OEBD diagram drag and drop display issue,oebd diagram drag and drop display issue,Diagram
+552977,Report GMF fix concerning Fonts broken on Export to Image and Printing of bug 312723 in class copied in Sirius,report gmf fix concerning fonts broken on export to image and printing of bug  in class copied in sirius,Diagram
+555533,intermodel.preventDependencyViolation.allowed preference should be set by default,intermodelpreventdependencyviolationallowed preference should be set by default,UI
+549644,[GTK3] Shell dispose slowdown,gtk shell dispose slowdown,SWT
+554306,Eclipse hangs when popup menu is opened in Capella Project Explorer,eclipse hangs when popup menu is opened in capella project explorer,Core
+548865,"Compiler reports non- error ""InitialContext cannot be resolved""",compiler reports non error initialcontext cannot be resolved,Core
+550765,Need a new temporary splash screen for 4.14,need a new temporary splash screen for,Releng
+549910,[13] Preview errors not to be shown when compiling in non-preview mode,preview errors not to be shown when compiling in nonpreview mode,Core
+554663,Migration to AQL - partition uncovered BooleanExpr,migration to aql  partition uncovered booleanexpr,Diagram
+555244,Remove JAXB dependency,remove jaxb dependency,Releng
+547901,Prep work for 4.13 and open master for development,prep work for  and open master for development,Releng
+554639,"[Regression] Closing session after an ""Initializing from existing diagram"" action could lead to ConcurrentModificationException",regression closing session after an initializing from existing diagram action could lead to concurrentmodificationexception,Diagram
+551604,Replace view menu icon,replace view menu icon,UI
+551496,"[14] Remove JCP disclaimers from code, UI and marketplace",remove jcp disclaimers from code ui and marketplace,Core
+553820,Add preferences for Jump links properties,add preferences for jump links properties,Diagram
+551311,Publish tests results using Java 13 and drop testing with java12,publish tests results using java  and drop testing with java,Releng
+554598,Label and background color are not as expected,label and background color are not as expected,Diagram
+548580,NPE in at org.eclipse.tm4e.ui.internal.menus.ThemeContribution.getContributionItems(ThemeContribution.java:59),npe in at orgeclipsetmeuiinternalmenusthemecontributiongetcontributionitemsthemecontributionjava,UI
+548564,Umbrella Bug to record infrastructure issues during 4.13,umbrella bug to record infrastructure issues during,Releng
+549065,[GTK] Widget.fixMnemonic() adds a mnemonic underline for table/tree with a parenthesis in a column header,gtk widgetfixmnemonic adds a mnemonic underline for tabletree with a parenthesis in a column header,SWT
+550767,POM and product version change for 4.14 release,pom and product version change for  release,Releng
+551638,Remove all p2.inf files that try to simulate the Provide-Capability manifest header (Eclipse Platform UI),remove all pinf files that try to simulate the providecapability manifest header eclipse platform ui,UI
+553624,Can't build platform locally,cant build platform locally,Releng
+553745,Hide 4.15 builds from the download page,hide  builds from the download page,Releng
+551618,SWT_AWT Unsatisfield Link Error on Linux and Error on MacOSX,swt_awt unsatisfield link error on linux and error on macosx,SWT
+554376,Add Viatra surrogate queries for Capella M2 derived features,add viatra surrogate queries for capella m derived features,Core
+552502,testJarSign fails in I20191027-1800,testjarsign fails in i,Releng
+548233,[Headless] workspace is not stored on exit,headless workspace is not stored on exit,Core
+554392,Some preferences are not set until a new project is created,some preferences are not set until a new project is created,Core
+550723,Build failure in I20190903-1800,build failure in i,Releng
+549592,Tests of a modular project have access to the classpath,tests of a modular project have access to the classpath,Core
+548239,[Headless] error not printed when file cannot be found,headless error not printed when file cannot be found,Core
+554691,Improve cross referencer updates by eGetting only covered features,improve cross referencer updates by egetting only covered features,Diagram
+554632,Migration of Diagram Annotation does not work any more,migration of diagram annotation does not work any more,Diagram
+552851,Report GMF fix concerning Fonts broken on Export to Image and Printing of bug 312723 in class copied in Sirius,report gmf fix concerning fonts broken on export to image and printing of bug  in class copied in sirius,Diagram
+551919,Initial workspace selector window too small,initial workspace selector window too small,SWT
+554736,Add Composite FC and Sequencing to OA level,add composite fc and sequencing to oa level,Diagram
+548543,[pivot] Need distinct per-TypedModel ResourceSet/CompleteModel,pivot need distinct pertypedmodel resourcesetcompletemodel,Core
+548813,"MergeTool with stage 2 as input should fall back to ""working tree"" after saved edits",mergetool with stage  as input should fall back to working tree after saved edits,UI
+550897,Allow to create a folder as top-level element in Eclipse,allow to create a folder as toplevel element in eclipse,UI
+552980,[Win32] org.eclipse.swt.SWTError: No more handles seen with TaskBar#createHandle() on Windows servercore,win orgeclipseswtswterror no more handles seen with taskbarcreatehandle on windows servercore,SWT
+550322,[GTK] Intermittent test failure isFocusControl,gtk intermittent test failure isfocuscontrol,SWT
+547713,[13] Running Y build with Java 13 compiler for test results,running y build with java  compiler for test results,Releng
+553238,Unanticipated comparator errors in I20191119-1800,unanticipated comparator errors in i,Releng
+553350,Eclipse 4.14 RC1 prerequisites: Orbit,eclipse  rc prerequisites orbit,Releng
+550259,Update IDE e4 command templates to remove menu / command / handers if the plug-in is not present,update ide e command templates to remove menu  command  handers if the plugin is not present,UI
+555314,[Releng] Capella EGF patterns 's update site is not built anymore,releng capella egf patterns s update site is not built anymore,Releng
+547806,ECJ cannot compile class extending an interface with a complex self-type generic type parameter,ecj cannot compile class extending an interface with a complex selftype generic type parameter,Core
+547316,[Mac]Support dynamic switching of dark/light theme,macsupport dynamic switching of darklight theme,SWT
+548970,"Standard way (interface, annotation...) to declare some class or methods needs to run in UI Thread.",standard way interface annotation to declare some class or methods needs to run in ui thread,SWT
+554510,State / Activity matrix pb,state  activity matrix pb,Diagram
+552377,[pull up] Pull Up a generic method in a superclass implementation stubs in other subclasses without type parameter,pull up pull up a generic method in a superclass implementation stubs in other subclasses without type parameter,UI
+548539,Platform UI Oomph P2 configuration and platformUiTools.p2f,platform ui oomph p configuration and platformuitoolspf,UI
+554277,[AFM] Modeling project can not be opened any more,afm modeling project can not be opened any more,Core
+547987,[ELK] algorithm selection is not applied to containers,elk algorithm selection is not applied to containers,Diagram
+553757,Migrate I-builds to new infra,migrate ibuilds to new infra,Releng
+554537,Allow specifier to choose the selected elements after a tool execution,allow specifier to choose the selected elements after a tool execution,Diagram
+553988,Capella executable for Mac OS X platform miss the x bit,capella executable for mac os x platform miss the x bit,Core
+554667,Migration to AQL - partition MTL,migration to aql  partition mtl,Diagram
+547775,Enable API Freeze Report for 4.12,enable api freeze report for,Releng
+549848,Deprecated AbstractUIPlugin.getWorkbench in favor of PlatformUI.getWorkbench,deprecated abstractuiplugingetworkbench in favor of platformuigetworkbench,UI
+553614,Eclipse 4.14 RC2 prerequisites: EMF,eclipse  rc prerequisites emf,Releng
+552605,SWT Project settings for all versioning issues should be error,swt project settings for all versioning issues should be error,SWT
+547456,[qvts] Trace non-variable operation calls,qvts trace nonvariable operation calls,Core
+554756,[Regression] Cannot create a Sequence Message in IS diagram,regression cannot create a sequence message in is diagram,Diagram
+550671,Refine JavaDoc for Dialog.shortenText,refine javadoc for dialogshortentext,UI
+548290,Remove swt tools check 32/64 functionality,remove swt tools check  functionality,SWT
+549056,Update e4 template to include org.eclipse.e4.ui.dialogs,update e template to include orgeclipseeuidialogs,UI
+553741,Create 4.15-I-builds repo,create ibuilds repo,Releng
+547475,[Win32] Remove redundant COM interface vtables,win remove redundant com interface vtables,SWT
+555268,Update build capella for addons to #173,update build capella for addons to,Releng
+554603,"Application of ""Fix filters on All Representations"" action on a model with State Machine and Capability Function Matrix table",application of fix filters on all representations action on a model with state machine and capability function matrix table,Diagram
+550062,Use ArrayDeque rather than Stack,use arraydeque rather than stack,UI
+551156,The eclipse-sdk-prereqs.target should use the fixed version of SUA 2.0,the eclipsesdkprereqstarget should use the fixed version of sua,Releng
+553559,illegalargumentexception on stdout or stderr,illegalargumentexception on stdout or stderr,Core
+553878,[Internationalization] - Invalid internationalization preference model URI,internationalization  invalid internationalization preference model uri,Core
+553179,Performance result graphs are not generated,performance result graphs are not generated,Releng
+549588,[Mac] COLOR_WIDGET_DISABLED_FOREGROUND doesn't work correctly on 10.14,mac color_widget_disabled_foreground doesnt work correctly on,SWT
+551193,Error/Warning - Local variable declaration hides another field or variable: exclude static fields,errorwarning  local variable declaration hides another field or variable exclude static fields,Core
+552410,[Copy/Paste] If a stereotype has composite association the copy paste of stereotyped element does not works correctly,copypaste if a stereotype has composite association the copy paste of stereotyped element does not works correctly,Core
+554294,Fix queries EPBS.allocatedPhysicalArchitecture and PA.allocatedLogicalArchitecture,fix queries epbsallocatedphysicalarchitecture and paallocatedlogicalarchitecture,Core
+553289,JGit CorruptObjectException when loading history,jgit corruptobjectexception when loading history,UI
+547890,Publish Eclipse 4.12 to maven central,publish eclipse  to maven central,Releng
+553392,Regression: org.eclipse.xtext.sdk no longer provides org.eclipse.emf.mwe.core,regression orgeclipsextextsdk no longer provides orgeclipseemfmwecore,Releng
+550513,StagingView: catch RuntimeExceptions during commit,stagingview catch runtimeexceptions during commit,UI
+555546,Information view messages order not predictable,information view messages order not predictable,UI
+551764,[MinMax] it should be possible to disable the Listener on a part stack,minmax it should be possible to disable the listener on a part stack,UI
+554640,[Regression] Exception while deleting a Diagram in capella explorer,regression exception while deleting a diagram in capella explorer,Diagram
+551749,[Tools] Application model editor doesn’t allow to create CompositePart inside snippets in Application.xmi,tools application model editor doesnt allow to create compositepart inside snippets in applicationxmi,UI
+553147,[14] Pattern instanceof - Search,pattern instanceof  search,Core
+548289,DragAndDrop of container with many border nodes is too long.,draganddrop of container with many border nodes is too long,Diagram
+555271,Update to sirius 3.1.0-S20150828-102814,update to sirius s,Releng
+550995,Enable API check for new bundles introduced in 4.13,enable api check for new bundles introduced in,Releng
+550073,Diagram validation does not validate all visible elements,diagram validation does not validate all visible elements,Diagram
+555262,Improve emf generation templates,improve emf generation templates,Releng
+552818,[Dark theme] Remove or move ScriptDisplayView from platform dark theme,dark theme remove or move scriptdisplayview from platform dark theme,UI
+547017,UI hangs on right click,ui hangs on right click,UI
+554321,Spaces in fragmented file URIs are displayed as %20,spaces in fragmented file uris are displayed as,Core
+552023,Project explorer should allow resource renaming within java source folders,project explorer should allow resource renaming within java source folders,UI
+555490,Menu Transition not visible when right click on [ES] diagram but visible in MA explorer,menu transition not visible when right click on es diagram but visible in ma explorer,UI
+547263,[qvtr2qvts] Optimize equality predicate,qvtrqvts optimize equality predicate,Core
+550087,UI freezes when opening/modifying/closing any Servlet or ServletContextListener,ui freezes when openingmodifyingclosing any servlet or servletcontextlistener,UI
+551946,Remote host identification changed after using egit nightly with apache http,remote host identification changed after using egit nightly with apache http,Core
+554745,Diagram Copy Paste does not take into account the validity of the paste location,diagram copy paste does not take into account the validity of the paste location,Diagram
+554513,Inserting parent OA in OAB diagram displays all inner interactions,inserting parent oa in oab diagram displays all inner interactions,Diagram
+549055,console: \u0020 after \uXXE2 displayed as thin space,console u after uxxe displayed as thin space,SWT
+549455,Generate a Class type entry to constant pool for inlined constants,generate a class type entry to constant pool for inlined constants,Core
+550911,Use same spacing in dark theme as in the light theme,use same spacing in dark theme as in the light theme,UI
+551856,[test] distinguish methods AbstractJavaModelTests.assertMarkers(..),test distinguish methods abstractjavamodeltestsassertmarkers,Core
+555617,Multiple selection for open diagram on semantic browser,multiple selection for open diagram on semantic browser,UI
+548385,Activate the UI freeze monitor in our product configuration for the SDK,activate the ui freeze monitor in our product configuration for the sdk,Releng
+554414,"[RichText] In collaborative environment, user can accidentally override what's modified by others",richtext in collaborative environment user can accidentally override whats modified by others,Core
+548996,Checkout branch empty after fetching a new remote branch and switching to it,checkout branch empty after fetching a new remote branch and switching to it,UI
+554526,Cancel Cagegory creation raises null pointer exception,cancel cagegory creation raises null pointer exception,Diagram
+552905,"Shorter text for ""Are you sure you want to delete ...""",shorter text for are you sure you want to delete,UI
+549674,Moving CU will remove the import for the inner class from the destination package mistakenly,moving cu will remove the import for the inner class from the destination package mistakenly,UI
+550962,Align PDE feature version with Platform SDK,align pde feature version with platform sdk,UI
+550353,Disable UI monitoring in dev mode,disable ui monitoring in dev mode,UI
+549004,Autosize action does not work when used from a custom tabbar,autosize action does not work when used from a custom tabbar,Diagram
+554545,[DIAGRAM] Two issues on diagram (small icon & new diagram name)),diagram two issues on diagram small icon  new diagram name,Diagram
+554147,"Set ""Import Organizing"" to true in .genmodel files",set import organizing to true in genmodel files,Core
+547993,[runtime] Fully load all models once,runtime fully load all models once,Core
+547304,[cleanup] Fix space/tab indentation mess and wrong line delimiters in platform,cleanup fix spacetab indentation mess and wrong line delimiters in platform,SWT
+552863,[GTK3] AllBrowserTests crash on Fedora 31,gtk allbrowsertests crash on fedora,SWT
+548874,Tree/Table cell editors are not visible in Ubuntu 16.04,treetable cell editors are not visible in ubuntu,SWT
+548430,[Cocoa] NullPointerException in Image.internal_new_GC (4.12.0RC2),cocoa nullpointerexception in imageinternal_new_gc rc,SWT
+554564,Display Parent function on Parent Component with child allocating child Functions,display parent function on parent component with child allocating child functions,Diagram
+547383,Semantic Resources are not removed from aird model when file is deleted,semantic resources are not removed from aird model when file is deleted,Diagram
+550042,[Quicksearch] Ignored file extensions must be checked case insensitive,quicksearch ignored file extensions must be checked case insensitive,UI
+548214,Maintain the pipeline scripts in a git repository,maintain the pipeline scripts in a git repository,Releng
+547247,[qvts] Fix head node groups,qvts fix head node groups,Core
+553739,Configure SWT build scripts for 4.15,configure swt build scripts for,Releng
+548721,Replace some StringBuffer by StringBuilder,replace some stringbuffer by stringbuilder,SWT
+552009,NegativeArraySizeException parsing huge heap dump,negativearraysizeexception parsing huge heap dump,Core
+549205,Deploy ecj compiler from 4.13 M1 and use it for 4.13 M2 build,deploy ecj compiler from  m and use it for  m build,Releng
+554530,Hide Function connected with a category redisplays the functional exchange. Bug detected by JUnit tests,hide function connected with a category redisplays the functional exchange bug detected by junit tests,Diagram
+553793,Declare 4.14 RC2,declare  rc,Releng
+554629,"Change icons for Actor Functions in every place (Project Explorer, Property Views, ...)",change icons for actor functions in every place project explorer property views,Diagram
+552916,[Dark theme] Remove workaround for Bug 419482 from Mac css,dark theme remove workaround for bug  from mac css,UI
+552238,[Dark Theme] Title Bar of eclipse and popups should be dark in dark theme,dark theme title bar of eclipse and popups should be dark in dark theme,SWT
+548416,[13] [test][dom ast rewrite] Fix test failures in Java 13,testdom ast rewrite fix test failures in java,Core
+547194,[Cocoa] Remove unused JNI functions and constants,cocoa remove unused jni functions and constants,SWT
+555265,Integrated new version of Diffmerge Patterns build on Sirius 3.1.0,integrated new version of diffmerge patterns build on sirius,Releng
+553218,Enabel webkit developer-extras,enabel webkit developerextras,SWT
+554724,Add a cache for faster category tools refreshes,add a cache for faster category tools refreshes,Diagram
+547920,Update product version number to 4.13 across build scripts,update product version number to  across build scripts,Releng
+550080,"The ""ฏู"" character is truncated vertically in a Label on Mac OS",the ฏ character is truncated vertically in a label on mac os,SWT
+552929,[Dark theme] Remove additional Shell styling,dark theme remove additional shell styling,UI
+554592,Show in Capella Explorer doesn't work on diagram,show in capella explorer doesnt work on diagram,Diagram
+554096,Replace Acceleo expression by Java service for Hide Allocated Interactions filter,replace acceleo expression by java service for hide allocated interactions filter,Core
+554464,Double migration of functional chains lead to invalid chains,double migration of functional chains lead to invalid chains,Core
+550372,Replace Activator log calls in org.eclipse.ui.internal.monitoring.MonitoringPlugin with standard log calls,replace activator log calls in orgeclipseuiinternalmonitoringmonitoringplugin with standard log calls,UI
+548378,[Mac]Replace deprecated method used FileDialog,macreplace deprecated method used filedialog,SWT
+554759,Insert/Remove Component/Actor does not work in multipart mode,insertremove componentactor does not work in multipart mode,Diagram
+547055,Maven jar compiler plugin doesn't work!,maven jar compiler plugin doesnt work,Core
+555553,Nebula Richtext integration in Capella,nebula richtext integration in capella,UI
+554492,Capella isn't able to work with MacOs Catalina,capella isnt able to work with macos catalina,Core
+547937,[Snippets] Update OpenGL Snippets for current library version,snippets update opengl snippets for current library version,SWT
+549751,[qvti] Evolve load mapping to an entry point,qvti evolve load mapping to an entry point,Core
+548346,2019-06 IDE composite site uses http not https for children,ide composite site uses http not https for children,Releng
+553393,Investigate SWT bundles in 4.14 M3,investigate swt bundles in  m,SWT
+549554,No default proposals,no default proposals,UI
+547634,[win32] Add CFSTR_SHELLIDLIST transfer type to FileTransfer to support drop on taskbar,win add cfstr_shellidlist transfer type to filetransfer to support drop on taskbar,SWT
+548230,linux hangs on: org.eclipse.swt.internal.gtk.OS._g_main_context_iteration,linux hangs on orgeclipseswtinternalgtkos_g_main_context_iteration,SWT
+553775,"Provide a new type of jump links named ""Tunnel""",provide a new type of jump links named tunnel,Diagram
+549927,"The ""diagram is locked by other"" figure should have a tooltip to indicate who owns the lock.",the diagram is locked by other figure should have a tooltip to indicate who owns the lock,Diagram
+552619,Deploy ecj compiler from I20191101-0300 and use it for 4.14 build,deploy ecj compiler from i and use it for  build,Releng
+548505,[cleanup][mass change] Use addAll instead of looping through a collection,cleanupmass change use addall instead of looping through a collection,Core
+553159,[14] Pattern instanceof - Java Model Changes,pattern instanceof  java model changes,Core
+553091,"Avoid UI freeze reports with ""An exception stack trace is not available""",avoid ui freeze reports with an exception stack trace is not available,UI
+549913,"[win32][extract method] Extract ""readRegistryDword"" method from Display to OS",winextract method extract readregistrydword method from display to os,SWT
+549330,[13] Merge 4.13 M1 to BETA_JAVA13,merge  m to beta_java,Core
+547686,[Win32] Calling pack() for SWT_AWT embedded frame works wrong in HiDPI mode with fractional scaling ratio,win calling pack for swt_awt embedded frame works wrong in hidpi mode with fractional scaling ratio,SWT
+550761,Prep work for 4.14 and open master for development,prep work for  and open master for development,Releng
+551679,Executable flag vanishes when using staging views diff view,executable flag vanishes when using staging views diff view,Core
+555243,[Build] Configure hudson jobs,build configure hudson jobs,Releng

@@ -1,0 +1,201 @@
+bugID,sd,clean_text,co,rf_prediction
+551988,Update Base builder from 4.13 to build 4.14 M1,update base builder from  to build  m,Releng,Releng
+549008,URIMappingRegistryImpl is very inefficient,urimappingregistryimpl is very inefficient,Core,Core
+554762,Diagram Delete From Model button is active when it should not be,diagram delete from model button is active when it should not be,Diagram,Diagram
+554542,[LFBD] Already existing Logical Function used as root in a LFBD diagram don't have the right color.,lfbd already existing logical function used as root in a lfbd diagram dont have the right color,Diagram,Diagram
+549733,[GTK] [API] Query the current system setting for dark mode,gtk api query the current system setting for dark mode,SWT,SWT
+553996,Capella adaptation for sirius 2.0.4-S20150129-121027 and [457833],capella adaptation for sirius s and,Core,Releng
+553630,[Passage] invent a way to publish general purpose passage bundles for external reuse,passage invent a way to publish general purpose passage bundles for external reuse,Releng,Core
+550507,Menu icons are not shown at proper position,menu icons are not shown at proper position,SWT,UI
+551810,Eclipse IBuild I20191004-1800 failed.,eclipse ibuild i failed,Releng,Releng
+551693,[CSS] Rethink return value behaviour of ICSSPropertyHandler#applyCSSProperty,css rethink return value behaviour of icsspropertyhandlerapplycssproperty,UI,Core
+554077,Move CapellaPackageRegistry helper class from addons to core,move capellapackageregistry helper class from addons to core,Core,Core
+552552,Develop scripts to add to repo and delete from repo for JIRO use,develop scripts to add to repo and delete from repo for jiro use,Releng,Releng
+547558,Formatter for lamda expression,formatter for lamda expression,Core,Releng
+552274,[GTK3] Some views are not repainting properly,gtk some views are not repainting properly,SWT,SWT
+554078,Delete deprecated business queries tests,delete deprecated business queries tests,Core,Core
+549553,Multiple problems have occurred,multiple problems have occurred,SWT,Core
+554561,[SAB] Switch category tool does not work on category between 2 parent system functions,sab switch category tool does not work on category between  parent system functions,Diagram,Diagram
+548822,[Quick Fix] Bundle x.y.z cannot be resolved => Locate and import project in workspace,quick fix bundle xyz cannot be resolved  locate and import project in workspace,UI,Core
+554669,Regression of abstract/primitive class style (border and italic) after acceleo to aql migration,regression of abstractprimitive class style border and italic after acceleo to aql migration,Diagram,Diagram
+554287,CommandHandler should pass ExecutionEvent to template methods,commandhandler should pass executionevent to template methods,Core,UI
+550057,[Quicksearch] The Quick Text Search dialog and menu item are missing mnemonics,quicksearch the quick text search dialog and menu item are missing mnemonics,UI,UI
+550775,Move to release version of 4.13 in build scripts,move to release version of  in build scripts,Releng,Releng
+547439,When 2 interfaces with same name implemented the IDE cannot make difference between two,when  interfaces with same name implemented the ide cannot make difference between two,UI,UI
+551582,"history input is set twice with ""show first parent"" enabled",history input is set twice with show first parent enabled,UI,Diagram
+547114,NPE at ModuleBinding.addReads(...) on changing Module Dependencies,npe at modulebindingaddreads on changing module dependencies,Core,UI
+551175,Umbrella Bug to record infrastructure issues during 4.14,umbrella bug to record infrastructure issues during,Releng,Core
+554562,Remove suffix when creating diagram/scenario and remove duplicate prefix when creating scenario,remove suffix when creating diagramscenario and remove duplicate prefix when creating scenario,Diagram,UI
+549558,ToolFilter API Improvements,toolfilter api improvements,Diagram,UI
+551708,[win32] Auto Complete Crashes Eclipse - Eclipse Installer Also Crashes With Same Error,win auto complete crashes eclipse  eclipse installer also crashes with same error,SWT,SWT
+548587,Performance improvement for SelectionUtils,performance improvement for selectionutils,Core,Releng
+554725,"Add ""Control Node"" & ""Sequence Link"" mappings and creation tools",add control node  sequence link mappings and creation tools,Diagram,Diagram
+555275,Update kitalpha version to the latest release,update kitalpha version to the latest release,Releng,Releng
+549426,"""Using Apache MINA sshd as ssh client"" in log",using apache mina sshd as ssh client in log,Core,UI
+552604,Versioning problem in SWT.,versioning problem in swt,SWT,SWT
+552521,"[resource]  warning against '<unassigned Closeable value>' is weakened to ""potential"" inside ""if""",resource  warning against unassigned closeable value is weakened to potential inside if,Core,Diagram
+551685,Frequent freezes with Broadway,frequent freezes with broadway,SWT,Core
+551545,Adopt new Orbit for Ant 1.10.7,adopt new orbit for ant,Releng,Releng
+554614,Show In Diagram should work for multi-selection,show in diagram should work for multiselection,Diagram,Diagram
+554215,Capella headless support,capella headless support,Core,Core
+551954,[qvtr] Implement the Benchmarx example,qvtr implement the benchmarx example,Core,Core
+553748,Update version number in mac's Eclipse.app for 4.15,update version number in macs eclipseapp for,Releng,Releng
+554709,Copy/Paste for diagram elements does not work in Team context,copypaste for diagram elements does not work in team context,Diagram,Diagram
+554232,Have a clearer error message when referenced VP version is not compatible with installed VP version,have a clearer error message when referenced vp version is not compatible with installed vp version,Core,Releng
+549186,[GTK] Help box when hovering on Java constant does not completely disappear,gtk help box when hovering on java constant does not completely disappear,SWT,SWT
+547941,Workspace image path attribute should be evaluated as an expression,workspace image path attribute should be evaluated as an expression,Diagram,Core
+554615,"[PERFORMANCE] Update Capella Basic Feature/Service/Variable interpreters with ""service:"" for mappings to speed up Diagram refresh",performance update capella basic featureservicevariable interpreters with service for mappings to speed up diagram refresh,Diagram,Releng
+550014,Cant import existing local git project,cant import existing local git project,UI,Core
+555312,Icon of Capella EXE,icon of capella exe,Releng,UI
+549244,[GTK] SWT error with java.lang.UnsatisfiedLinkError,gtk swt error with javalangunsatisfiedlinkerror,SWT,SWT
+554543,"When dragNdrop without automatic refresh, ports are not updated",when dragndrop without automatic refresh ports are not updated,Diagram,Core
+554260,Improve project migration in command line mode and add Unit tests,improve project migration in command line mode and add unit tests,Core,UI
+552473,Copying from Eclipse console and pasting directly into Gnumeric truncates long selections,copying from eclipse console and pasting directly into gnumeric truncates long selections,SWT,Releng
+553336,Do the Javadoc bash for 4.14,do the javadoc bash for,SWT,SWT
+549572,OOMPH: support 2019-03 to 2019-12,oomph support  to,Releng,Core
+556242,Implementation of COPY and REFERENCE mode,implementation of copy and reference mode,Core,Core
+553562,Declare 4.14 RC1,declare  rc,Releng,Releng
+552514,[10.15] Some categories in tree not displaying in PreferenceDialog on MacOS 10.15,some categories in tree not displaying in preferencedialog on macos,SWT,SWT
+550188,ApiAnalyzer flags false positive error due to extension point schema include,apianalyzer flags false positive error due to extension point schema include,UI,Core
+553755,Umbrella Bug to record infrastructure issues during 4.15,umbrella bug to record infrastructure issues during,Releng,Core
+547903,Create new test jobs for 4.13,create new test jobs for,Releng,Releng
+548431,Produce signed Windows launcher bundles in the platform repo,produce signed windows launcher bundles in the platform repo,Releng,UI
+553784,[Win32] Do not materialize virtual tree items in toString,win do not materialize virtual tree items in tostring,SWT,SWT
+553384,JAR export can leads to module inclusion,jar export can leads to module inclusion,UI,Core
+548629,[GTK3.24.9] Text in Trees/Tables is overdrawn,gtk text in treestables is overdrawn,SWT,SWT
+551551,Icons should be scaled in the model editor,icons should be scaled in the model editor,UI,UI
+550592,Please don't set this org.eclipse.jdt.core.compiler.problem.forbiddenReference=error,please dont set this orgeclipsejdtcorecompilerproblemforbiddenreferenceerror,UI,Core
+548612,API report for org.eclipse.core.databinding.observable is missing,api report for orgeclipsecoredatabindingobservable is missing,Releng,Releng
+554750,Set description in double click wizard does not work,set description in double click wizard does not work,Diagram,Diagram
+550498,N&N for 4.13,nn for,Releng,Releng
+548458,[Win32] Reconcile o.e.s.internal.win32.OS and o.e.s.internal.ole.win32.COM,win reconcile oesinternalwinos and oesinternalolewincom,SWT,SWT
+554651,Migration to AQL - partition tests OneCallOnCurrent,migration to aql  partition tests onecalloncurrent,Diagram,Diagram
+550583,Fix files that have ended up with CRLF in the git repository,fix files that have ended up with crlf in the git repository,Core,Releng
+547934,[Snippets] Add SnippetExplorer to filter and launch SWT Snippets,snippets add snippetexplorer to filter and launch swt snippets,SWT,SWT
+555580,Reduce REC/RPL usage to semantic elements only,reduce recrpl usage to semantic elements only,UI,Core
+552547,[GTK] Drawing artifact,gtk drawing artifact,SWT,SWT
+547858,[code mining] add possibility to query CodeMiningProviderRegistry without Text Editor,code mining add possibility to query codeminingproviderregistry without text editor,UI,UI
+550922,Javadoc failure in releng in 9 Sept 4.14 build,javadoc failure in releng in  sept  build,Releng,Releng
+554372,"The preference to disable display ""invalid""  Physical path in diagram doesn't work",the preference to disable display invalid  physical path in diagram doesnt work,Core,Diagram
+547557,[GTK] Shell.print(GC) not implemented,gtk shellprintgc not implemented,SWT,SWT
+555274,Update kitalpha version to the official 0.5.2 release,update kitalpha version to the official  release,Releng,Releng
+547606,Deploy ecj compiler from  I20190522-1800 and use it for 4.12 RC1,deploy ecj compiler from  i and use it for  rc,Releng,Releng
+554767,Canceling on aird selector must have a correct behavior,canceling on aird selector must have a correct behavior,Diagram,Core
+552373,[GTK] Hover can cause UI Freeze on huge input string,gtk hover can cause ui freeze on huge input string,SWT,SWT
+552122,Exception access violation,exception access violation,SWT,UI
+551589,"Add more widgets to WidgetFactories (like (C)Combo, Scale, Slider, Sash, Shell, ...)",add more widgets to widgetfactories like ccombo scale slider sash shell,UI,Core
+550332,Add a tooltip on the LOCKED_BY_OTHER diagram semantic element figure.,add a tooltip on the locked_by_other diagram semantic element figure,Diagram,Diagram
+550828,Activate heap monitor by default,activate heap monitor by default,UI,UI
+550082,The check for Git-based projects seems to be too generic,the check for gitbased projects seems to be too generic,UI,Releng
+552970,Multi-selection in the GitHistoryRefFilterConfigurationDialog,multiselection in the githistoryreffilterconfigurationdialog,UI,UI
+551335,[StyledText] setStyleRanges reset less cache than necessary,styledtext setstyleranges reset less cache than necessary,SWT,Core
+554581,[4.0 regression]Decomposition wizard: automatic interface creation and EI delegation on the fly does not work vs Interface delegation,regressiondecomposition wizard automatic interface creation and ei delegation on the fly does not work vs interface delegation,Diagram,Diagram
+555488,Elements description edition,elements description edition,UI,Core
+555504,Semantic Browser history goes wrong,semantic browser history goes wrong,UI,Core
+549986,Add Copyright Tool to OOMPH setup,add copyright tool to oomph setup,Releng,Diagram
+555264,Part duplication on scenario refinement,part duplication on scenario refinement,Releng,Diagram
+548960,Enable operating system dark mode in swt browser,enable operating system dark mode in swt browser,SWT,SWT
+551345,[tests] Assert fail with CU presnet in package between tests,tests assert fail with cu presnet in package between tests,UI,Core
+547030,[macOS] StyledText link color is wrong in dark mojave mode,macos styledtext link color is wrong in dark mojave mode,SWT,UI
+554723,Take into account source/targetReferenceHierarchy to display FunctionalChainInvolvementLink in FCD diagram,take into account sourcetargetreferencehierarchy to display functionalchaininvolvementlink in fcd diagram,Diagram,Diagram
+554703,Add preference to handle the label of Functional chain; Physical Path and Operational Process,add preference to handle the label of functional chain physical path and operational process,Diagram,Diagram
+551173,Promote and Contribute 4.13 to Simrel,promote and contribute  to simrel,Releng,Releng
+552834,Run Platform build with Java 11,run platform build with java,Releng,Releng
+554676,Ability to add multiple InstanceRoles for a single represented instance,ability to add multiple instanceroles for a single represented instance,Diagram,Releng
+551628,Import/Export wizards that are hidden via Activities&ActivityPatternBindings cause their parent category to flash open and closed on initial click,importexport wizards that are hidden via activitiesactivitypatternbindings cause their parent category to flash open and closed on initial click,UI,UI
+550334,clean up: convert for loops to enhanced results in null pointer (in certain files),clean up convert for loops to enhanced results in null pointer in certain files,UI,Releng
+553360,Contact Us section of the main project page contains deadlink and wrong link,contact us section of the main project page contains deadlink and wrong link,SWT,Core
+547362,Code Assist does not work with complex syntax,code assist does not work with complex syntax,Core,Diagram
+552952,[Progress] KEEPONE_PROPERTY can keep more than one element in progress view,progress keepone_property can keep more than one element in progress view,UI,UI
+551333,Cannot use JDT in headless application,cannot use jdt in headless application,UI,UI
+552063,[10.15] RCP app menu not active launching from Eclipse,rcp app menu not active launching from eclipse,SWT,UI
+549616,Refactor MoveInstanceMethodProcessor and MoveStaticMembersProcessor to jdt.core.manipulation for use by jdt.ls,refactor moveinstancemethodprocessor and movestaticmembersprocessor to jdtcoremanipulation for use by jdtls,UI,Releng
+548118,[Preferences] Capabilities Description appears to be editable but is not (Flashing Cursor),preferences capabilities description appears to be editable but is not flashing cursor,UI,Core
+554730,Update OPD diagrams with similar diagram filters available in FCD,update opd diagrams with similar diagram filters available in fcd,Diagram,Diagram
+554612,[Performance][CDB] Avoid unnecessary refresh operations when executing tools + optimize refresh operation,performancecdb avoid unnecessary refresh operations when executing tools  optimize refresh operation,Diagram,Core
+547093,[GTK] GNOME logoff hangs for 90 seconds after System.exit() on SWT.Dispose for Display,gtk gnome logoff hangs for  seconds after systemexit on swtdispose for display,SWT,SWT
+554705,Copy/Paste layout does not work when there are different graphical elements representing the same semantic element,copypaste layout does not work when there are different graphical elements representing the same semantic element,Diagram,Diagram
+554008,Null pointer Exception when selecting two elements of different models,null pointer exception when selecting two elements of different models,Core,Core
+549198,[13] Code selection support for Java 13,code selection support for java,Core,Core
+554351,Avoid NPEs in TabbedPropertiesWizardEditPolicy,avoid npes in tabbedpropertieswizardeditpolicy,Core,UI
+554660,Migration to AQL - partition tests corrections,migration to aql  partition tests corrections,Diagram,Diagram
+554350,Change Capella's DiffMerge policy due to Sirius uid support,change capellas diffmerge policy due to sirius uid support,Core,Core
+554757,IDB cannot s/h actors inside a target component or actor,idb cannot sh actors inside a target component or actor,Diagram,Diagram
+554389,Semantic Browser not working as expected for Class Diagrams,semantic browser not working as expected for class diagrams,Core,Diagram
+555594,Remove unused NLS constants for transfer view,remove unused nls constants for transfer view,UI,UI
+552998,Git history sometimes shows nothing,git history sometimes shows nothing,UI,Core
+552096,[GTK] Tree.showItem does not work reliably,gtk treeshowitem does not work reliably,SWT,SWT
+554747,[PERFORMANCE] Optimize the Semantic Candidates,performance optimize the semantic candidates,Diagram,Core
+547192,[Cocoa] Replace deprecated Carbon functions,cocoa replace deprecated carbon functions,SWT,SWT
+554189,Potential NPE when trying to get a resource on a session,potential npe when trying to get a resource on a session,Core,Core
+552954,Remove forced layout call in ExtendedMarkersView,remove forced layout call in extendedmarkersview,UI,UI
+547991,[test] LeakTestsBefore9.testLeaksOnCleanBuild failing intermittently,test leaktestsbeforetestleaksoncleanbuild failing intermittently,Core,Core
+547924,Update version number in mac's Eclipse.app for 4.13,update version number in macs eclipseapp for,Releng,Releng
+551824,ToolItem should provide meaningful toString(),toolitem should provide meaningful tostring,SWT,UI
+554582,Mode State Machine diagram,mode state machine diagram,Diagram,Diagram
+550937,[GTK] Checkbutton next to Link is missing padding,gtk checkbutton next to link is missing padding,SWT,SWT
+555316,Avoid building all .target files in all builds,avoid building all target files in all builds,Releng,Releng
+548047,"[Preferences] Colors and Fonts descriptions seem editable, but are not (Flashing Cursor)",preferences colors and fonts descriptions seem editable but are not flashing cursor,UI,SWT
+553038,Eclipse 4.14 M3 prerequisites: EMF,eclipse  m prerequisites emf,Releng,Releng
+551211,Take advantage of lambda in DisplayHelper,take advantage of lambda in displayhelper,UI,UI
+554749,EvaluationException in Collapse Function Ports Filter,evaluationexception in collapse function ports filter,Diagram,Diagram
+554536,Add Mode and State mixed hierarchy configuration option,add mode and state mixed hierarchy configuration option,Diagram,Core
+554527,Move of state in explorer generate an error,move of state in explorer generate an error,Diagram,Diagram
+554533,Impossible to resize an Operational Capilities and Capabilities realization,impossible to resize an operational capilities and capabilities realization,Diagram,Core
+550301,[Bug] The delete quick fix does not work,bug the delete quick fix does not work,UI,Diagram
+553339,2019-12 (4.14) Acknowledgements,acknowledgements,Releng,Core
+548568,Update compliance specific grammar rules table in Parser,update compliance specific grammar rules table in parser,Core,Releng
+554590,Tooltips of Reference tool in Sequence Diagrams are not correct,tooltips of reference tool in sequence diagrams are not correct,Diagram,Diagram
+554106,Extend test framework to support headless DAnalysis selector,extend test framework to support headless danalysis selector,Core,Core
+554653,Migration to AQL - partition tests OneCallOnNotCurrent,migration to aql  partition tests onecallonnotcurrent,Diagram,Diagram
+553415,Adopt Notarization service changes in the platform build,adopt notarization service changes in the platform build,Releng,Releng
+547668,Readme file for 4.12,readme file for,Releng,Releng
+548372,Avoid unnecessary assignment to local variable before return statement,avoid unnecessary assignment to local variable before return statement,Core,Core
+554489,It shall be possible to drag and drop actors from digram to diagram in SAB diagram,it shall be possible to drag and drop actors from digram to diagram in sab diagram,Core,Diagram
+550774,Update version number in mac's Eclipse.app for 4.14,update version number in macs eclipseapp for,Releng,Releng
+548577,"Upgrade severity of ""Unused API problem filters"" from 'Warning' to 'Error' for 'org.eclipse.swt' project",upgrade severity of unused api problem filters from warning to error for orgeclipseswt project,SWT,Core
+554263,[releng] Clean rcp product,releng clean rcp product,Core,Core
+548379,Installation problem with SimRel2019 ?,installation problem with simrel,Core,Core
+554163,Fix lifecycle issues,fix lifecycle issues,Core,Core
+550018,Project Explorer loses last selected working set,project explorer loses last selected working set,UI,Core
+554211,[Performance] Business Queries are called twice,performance business queries are called twice,Core,Core
+550440,Severe rednering bug when scrolling editor on Mac OS,severe rednering bug when scrolling editor on mac os,SWT,SWT
+548295,[release] release Mylyn 3.25,release release mylyn,Releng,Releng
+554410,Crash when returning id of a rule,crash when returning id of a rule,Core,SWT
+554225,Close Activity Explorer and create a new diagram: then you cannot reopen Activity Explorer,close activity explorer and create a new diagram then you cannot reopen activity explorer,Core,Diagram
+547579,"Combine ""Remove Repository from View"" and ""Delete Repository"" menu entries",combine remove repository from view and delete repository menu entries,UI,UI
+555527,"[REGRESSION MARS] Menu ""Show Impact Analysis"" is visible but not enabled when right-clicking on a diagram's background",regression mars menu show impact analysis is visible but not enabled when rightclicking on a diagrams background,UI,Diagram
+554714,"Enhancement on CRI diagrams - add tools for inserting/adding Actor, Component, CapabilityRealization, Involvement Link",enhancement on cri diagrams  add tools for insertingadding actor component capabilityrealization involvement link,Diagram,Diagram
+549887,"Allow label located outside of a node, or border node, to be ""everywhere"" around the node",allow label located outside of a node or border node to be everywhere around the node,Diagram,Core
+550875,Update Base builder to 4.13RC2 to build 4.14,update base builder to rc to build,Releng,Releng
+555261,Update Sirius 2.0.5 to 2.0.x,update sirius  to x,Releng,Releng
+551433,Eclipse will no longer run all tests in a class when pressing alt+shift+x outside a method.,eclipse will no longer run all tests in a class when pressing altshiftx outside a method,UI,Core
+550869,Searching in plugin registry view shows result after 5 seconds and no progress information,searching in plugin registry view shows result after  seconds and no progress information,UI,UI
+551750,"[Tools] Application model editor, adding a PartSash to a composite part creates another CompositePart",tools application model editor adding a partsash to a composite part creates another compositepart,UI,Core
+554695,Insert/Remove Operational Activities (with OperationalActivitiesPackage) in OAIB fails.,insertremove operational activities with operationalactivitiespackage in oaib fails,Diagram,UI
+549932,[Win32] Table menudetectlistener does not work properly,win table menudetectlistener does not work properly,SWT,SWT
+554209,ValidationRuleTestCase does not consider diagnostic children when counting problems,validationruletestcase does not consider diagnostic children when counting problems,Core,Core
+553073,[GTK] Eclipse crashes in org.eclipse.swt.internal.gtk.GTK._gtk_tree_store_set,gtk eclipse crashes in orgeclipseswtinternalgtkgtk_gtk_tree_store_set,SWT,SWT
+547902,Create parent pom and target sdk deployment jobs for 4.13,create parent pom and target sdk deployment jobs for,Releng,Core
+554479,"In xAB cannot D&D un actor outside a root component (root OE, root PC, root LC)",in xab cannot dd un actor outside a root component root oe root pc root lc,Core,Core
+552663,Exception in Find Actions for opening Layout Spy (from PDE),exception in find actions for opening layout spy from pde,UI,UI
+549593,Very large text in console appears corrupted,very large text in console appears corrupted,SWT,UI
+556237,Support for collaborative work on requirements and traceability,support for collaborative work on requirements and traceability,Core,Releng
+547811,[GTK] DateTime drop-down popup shell does not hiding on focus lost,gtk datetime dropdown popup shell does not hiding on focus lost,SWT,SWT
+555284,FileModificationTask used in M2 Migration Task changes end of line character sequences to '\n',filemodificationtask used in m migration task changes end of line character sequences to n,Releng,Diagram
+554682,Functional Scenario allow creating functional exchanges between a function and its children functions,functional scenario allow creating functional exchanges between a function and its children functions,Diagram,Diagram
+554662,Migration to AQL - partition uncovered SimpleVariable + OneServiceCall,migration to aql  partition uncovered simplevariable  oneservicecall,Diagram,Diagram
+551982,[GTK] Nothing is rendered when creating new GC on canvas,gtk nothing is rendered when creating new gc on canvas,SWT,SWT
+547717,[13] Start creating Y builds from BETA_JAVA13,start creating y builds from beta_java,Releng,Releng
+555564,Move Elements View shall be moved into Incubation section,move elements view shall be moved into incubation section,UI,UI
+553033,Move releng build tools repo from build.eclipse.org to download.eclipse.org,move releng build tools repo from buildeclipseorg to downloadeclipseorg,Releng,Releng
+547772,[9][build path] improve synchronization of data on different tabs of Java Build Path,build path improve synchronization of data on different tabs of java build path,UI,Releng
+554153,Reactive the standard Search in Capella perspective and change icon for Capella search,reactive the standard search in capella perspective and change icon for capella search,Core,UI
+548320,[Mac] Add color constants for disabled background and foreground colors,mac add color constants for disabled background and foreground colors,SWT,SWT
+549101,"[GTK] Label background set from parent background, but the colors are not equal",gtk label background set from parent background but the colors are not equal,SWT,SWT
+554659,Diagram corrupted after Refresh All Sub Representations with Sirius refreshes disabled,diagram corrupted after refresh all sub representations with sirius refreshes disabled,Diagram,Diagram
+550873,Tag eclipse and equinox 4.13 release,tag eclipse and equinox  release,Releng,Releng
+553866,NPE when activating a Layer on a invalid diagram,npe when activating a layer on a invalid diagram,Diagram,Diagram
+555254,Extract external dependencies from build model,extract external dependencies from build model,Releng,Releng
+550619,StackOverflowError with transitive dependency,stackoverflowerror with transitive dependency,Core,Core
+550606,[GTK] Right-click > Rename from Project Explorer non-functional when starting with only hidden projects,gtk rightclick  rename from project explorer nonfunctional when starting with only hidden projects,SWT,SWT
