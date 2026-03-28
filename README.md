@@ -10,18 +10,25 @@ Random Forest: %64 doğruluk (accuracy) ve SWT gibi spesifik teknik birimlerde 0
 Gemini LLM: "Zero-shot" sınıflandırma düzeninde %51 doğruluk göstermiştir; genelleme potansiyeli sunmakla birlikte, uzmanlaşmış teknik alanlar için ince ayar (fine-tuning) gereksinimi gözlemlenmiştir.
 
 Optimal Hiper-parametreler: Yapılan deneyler sonucunda, Random Forest modelinde sınırsız ağaç derinliğinin (max_depth=None) karmaşık teknik örüntüleri yakalamada en iyi sonucu verdiği kanıtlanmıştır.
+## 🚀 Temel Bulgular
+- **Random Forest:** %64 doğruluk (accuracy) ve `SWT` gibi spesifik teknik birimlerde **0.82** gibi yüksek bir F1-skoru elde etmiştir.
+- **Gemini LLM:** "Zero-shot" sınıflandırma düzeninde **%51** doğruluk göstermiştir.
+- **Optimal Hiper-parametreler:** Yapılan deneyler sonucunda, Random Forest modelinde sınırsız ağaç derinliğinin (`max_depth=None`) karmaşık teknik örüntüleri yakalamada en iyi sonucu verdiği kanıtlanmıştır.
+
+## 📂 Proje Yapısı
+```text
 KaliteProjesi/ (Ana Dizin)
-├── README.md # Proje tanıtım ve kullanım kılavuzu
-├── requirements.txt # Kütüphane bağımlılıkları listesi
-├── .gitignore # Git sistemine dahil edilmeyecek dosyalar
-├── .env # API Anahtarları (Yerel dosya)
-└── data_pipeline/ # Teknik çalışmaların bulunduğu klasör
-├── data/ # Ham ve işlenmiş CSV veri setleri
-├── figures/ # Analiz grafikleri (Confusion Matrix, Radar Chart vb.)
-├── data_preprocessing.py # Veri hazırlama ve ön işleme betiği
-├── rf_classifier.py # Random Forest eğitim ve test süreci
-├── gemini_classifier.py # Gemini LLM sınıflandırma mantığı
-└── visualize_results.py # Tüm performans grafiklerini üreten araç
+├── README.md              # Proje tanıtım ve kullanım kılavuzu
+├── requirements.txt       # Kütüphane bağımlılıkları listesi
+├── .gitignore             # Git sistemine dahil edilmeyecek dosyalar
+├── .env                   # API Anahtarları (Yerel dosya)
+└── data_pipeline/         # Teknik çalışmaların bulunduğu klasör
+    ├── data/              # Ham ve işlenmiş CSV veri setleri
+    ├── figures/           # Analiz grafikleri (Confusion Matrix, Radar Chart vb.)
+    ├── data_preprocessing.py # Veri hazırlama betiği
+    ├── rf_classifier.py      # Random Forest süreci
+    ├── gemini_classifier.py   # Gemini LLM mantığı
+    └── visualize_results.py   # Grafik üreten araç
 
 📊 Görselleştirmeler
 Proje çıktısı olarak üretilen tüm performans karşılaştırmaları (Hata Matrisleri, Bar Grafikleri ve Model Yetenek Radar Grafiği) figures/ dizini altında yer almaktadır. Bu grafikler, modellerin hangi teknik birimlerde daha güçlü veya zayıf olduğunu görsel olarak sunar.
