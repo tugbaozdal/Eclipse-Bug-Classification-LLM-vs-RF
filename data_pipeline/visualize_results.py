@@ -7,8 +7,8 @@ from sklearn.metrics import classification_report, confusion_matrix
 
 # 1. Yapılandırma ve Dosya Yolları
 RF_RESULTS = 'data/rf_results.csv'
-GEMINI_RESULTS = 'data/gemini_final_results.csv'
-FIGURES_DIR = 'figures/'
+GEMINI_RESULTS = 'data/gemini_english_results.csv'
+FIGURES_DIR = 'final_figures/'
 
 def generate_visualizations():
     # Klasör yoksa oluştur
@@ -49,11 +49,11 @@ def generate_visualizations():
     plt.figure(figsize=(10, 8))
     cm_gemini = confusion_matrix(df_gemini['actual_co'], df_gemini['prediction_cleaned'], labels=labels)
     sns.heatmap(cm_gemini, annot=True, fmt='d', cmap='Oranges', xticklabels=labels, yticklabels=labels)
-    plt.title('Gemini 2.5 Flash-Lite - Confusion Matrix')
+    plt.title('Gemini 2.5 Flash-Lite - Confusion Matrix (English Prompt)')
     plt.xlabel('Predicted Label')
     plt.ylabel('Actual Label')
     plt.tight_layout()
-    plt.savefig(f'{FIGURES_DIR}gemini_confusion_matrix.png')
+    plt.savefig(f'{FIGURES_DIR}gemini_confusion_matrix_en.png')
     print("✅ Gemini Confusion Matrix kaydedildi.")
 
     # --- 3. F1-SCORE BAR CHART ---
