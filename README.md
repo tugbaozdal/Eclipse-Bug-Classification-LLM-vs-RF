@@ -4,34 +4,25 @@ Bu çalışma, yazılım hata raporlarının otomatik sınıflandırılmasında 
 📝 Proje Özeti
 Yazılım geliştirme süreçlerinde hata raporlarının doğru birimlere yönlendirilmesi kritik bir öneme sahiptir. Bu projede, Eclipse projesine ait hata raporları; Core, UI, Releng, Diagram ve SWT olmak üzere 5 farklı teknik birime sınıflandırılmıştır. Çalışma, spesifik teknik metinler üzerinde eğitilmiş bir modelin (RF) başarısını, genel amaçlı bir dil modelinin (LLM) "zero-shot" performansı ile kıyaslamaktadır.
 
-🚀 Temel Bulgular
-Random Forest: %64 doğruluk (accuracy) ve SWT gibi spesifik teknik birimlerde 0.82 gibi yüksek bir F1-skoru elde etmiştir.
-
-Gemini LLM: "Zero-shot" sınıflandırma düzeninde %51 doğruluk göstermiştir; genelleme potansiyeli sunmakla birlikte, uzmanlaşmış teknik alanlar için ince ayar (fine-tuning) gereksinimi gözlemlenmiştir.
 
 Optimal Hiper-parametreler: Yapılan deneyler sonucunda, Random Forest modelinde sınırsız ağaç derinliğinin (max_depth=None) karmaşık teknik örüntüleri yakalamada en iyi sonucu verdiği kanıtlanmıştır.
 
-## 🚀 Temel Bulgular
 
-- **Random Forest:** %64 doğruluk (accuracy) ve `SWT` gibi spesifik teknik birimlerde **0.82** gibi yüksek bir F1-skoru elde etmiştir.
-- **Gemini LLM:** "Zero-shot" sınıflandırma düzeninde **%51** doğruluk göstermiştir.
-- **Optimal Hiper-parametreler:** Yapılan deneyler sonucunda, Random Forest modelinde sınırsız ağaç derinliğinin (`max_depth=None`) karmaşık teknik örüntüleri yakalamada en iyi sonucu verdiği kanıtlanmıştır.
-
-## 📂 Proje Yapısı
-
-```text
 KaliteProjesi/ (Ana Dizin)
-├── README.md              # Proje tanıtım ve kullanım kılavuzu
-├── requirements.txt       # Kütüphane bağımlılıkları listesi
-├── .gitignore             # Git sistemine dahil edilmeyecek dosyalar
-├── .env                   # API Anahtarları (Yerel dosya)
-└── data_pipeline/         # Teknik çalışmaların bulunduğu klasör
-    ├── data/              # Ham ve işlenmiş CSV veri setleri
-    ├── figures/           # Analiz grafikleri (Confusion Matrix, Radar Chart vb.)
-    ├── data_preprocessing.py # Veri hazırlama betiği
-    ├── rf_classifier.py      # Random Forest süreci
-    ├── gemini_classifier.py   # Gemini LLM mantığı
-    └── visualize_results.py   # Grafik üreten araç
+├── README.md                # Proje tanıtım ve kullanım kılavuzu
+├── requirements.txt         # Kütüphane bağımlılıkları listesi
+├── .gitignore               # Git sistemine dahil edilmeyecek dosyalar
+├── .env                     # API Anahtarları (Yerel dosya)
+└── data_pipeline/           # Teknik çalışmaların bulunduğu klasör
+    ├── data/                # Ham ve işlenmiş CSV veri setleri (Eclipse.csv vb.)
+    ├── figures/             # Çalışma esnasında üretilen geçici grafikler(türkçe promptla)
+    ├── final_figures/       # Analiz grafikleri (Confusion Matrix, Radar Chart vb.)
+    ├── data_preprocessing.py # Veri hazırlama ve temizleme betiği
+    ├── rf_classifier.py      # Random Forest model eğitim ve tahmin süreci
+    ├── gemini_classifier.py   # Gemini LLM sınıflandırma mantığı (Türkçe)
+    ├── gemini_classifier_en.py # Gemini LLM sınıflandırma (İngilizce Prompt odaklı)
+    ├── rf_results_depth20_backup.csv # Model hiperparametre deneyi yedeği
+    └── visualize_results.py   # Karşılaştırmalı performans grafiklerini üreten araç
 
 
 📂 Proje Yapısı (Project Structure)
