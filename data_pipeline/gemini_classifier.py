@@ -36,11 +36,11 @@ else:
 
 # 3. Robust Prediction Function
 def get_prediction(summary, max_retries=5):
-    prompt = f"""You are an Eclipse software expert. Review the following bug report summary 
-    and classify it into one of these 5 technical units: Core, UI, Releng, Diagram, SWT.
-    RULE: Return ONLY the unit name. No extra explanation.
-    Bug Report Summary: {summary}
-    Unit:"""
+    prompt = f"""Sen bir Eclipse yazılım uzmanısın. Aşağıdaki hata raporu özetini 
+    incele ve şu 5 teknik birimden birine sınıflandır: Core, UI, Releng, Diagram, SWT.
+    KURAL: SADECE birim adını döndür. Ekstra açıklama yapma.
+    Hata Raporu Özeti: {summary}
+    Birim:"""
     
     for attempt in range(max_retries):
         try:
