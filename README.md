@@ -7,7 +7,9 @@ Yazılım geliştirme süreçlerinde hata raporlarının doğru birimlere yönle
 
 Optimal Hiper-parametreler: Yapılan deneyler sonucunda, Random Forest modelinde sınırsız ağaç derinliğinin (max_depth=None) karmaşık teknik örüntüleri yakalamada en iyi sonucu verdiği kanıtlanmıştır.
 
+### 📂 Proje Yapısı (Project Structure)
 
+```text
 KaliteProjesi/ (Ana Dizin)
 ├── README.md                # Proje tanıtım ve kullanım kılavuzu
 ├── requirements.txt         # Kütüphane bağımlılıkları listesi
@@ -15,7 +17,7 @@ KaliteProjesi/ (Ana Dizin)
 ├── .env                     # API Anahtarları (Yerel dosya)
 └── data_pipeline/           # Teknik çalışmaların bulunduğu klasör
     ├── data/                # Ham ve işlenmiş CSV veri setleri (Eclipse.csv vb.)
-    ├── figures/             # Çalışma esnasında üretilen geçici grafikler(türkçe promptla)
+    ├── figures/             # Çalışma esnasında üretilen geçici grafikler (Türkçe Prompt)
     ├── final_figures/       # Analiz grafikleri (Confusion Matrix, Radar Chart vb.)
     ├── data_preprocessing.py # Veri hazırlama ve temizleme betiği
     ├── rf_classifier.py      # Random Forest model eğitim ve tahmin süreci
@@ -23,7 +25,6 @@ KaliteProjesi/ (Ana Dizin)
     ├── gemini_classifier_en.py # Gemini LLM sınıflandırma (İngilizce Prompt odaklı)
     ├── rf_results_depth20_backup.csv # Model hiperparametre deneyi yedeği
     └── visualize_results.py   # Karşılaştırmalı performans grafiklerini üreten araç
-
 
 📂 Proje Yapısı (Project Structure)
 Projenin temel işleyişi data_pipeline klasörü altında toplanmıştır. Aşağıda bu klasördeki dosyaların ve dizinlerin görevleri açıklanmaktadır:
